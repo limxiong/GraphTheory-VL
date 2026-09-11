@@ -16,7 +16,7 @@ The site uses plain HTML, CSS and JavaScript. This repository hosts the portable
 
 ## Release links
 
-The public homepage is https://limxiong.github.io/GraphTheory-VL/ and the code repository is https://github.com/limxiong/GraphTheory-VL. The core dataset and full response archive are published as assets of the v1.0 GitHub release. The matching Hugging Face dataset remains in preparation.
+The public homepage is https://limxiong.github.io/GraphTheory-VL/ and the code repository is https://github.com/limxiong/GraphTheory-VL. The core dataset and full response archive are published as assets of the v1.0 GitHub release. The matching dataset is public at [https://huggingface.co/datasets/zixiong02/GraphTheory-VL](https://huggingface.co/datasets/zixiong02/GraphTheory-VL).
 
 Maintain links in `docs/resources.js` and the visible resource text in `docs/index.html`. Replace the draft PDF and citation when the paper's permanent identifier is available. Preserve the 62/20 nested relationship and the distinction between 984 scoring positions and 983 complete answers.
 

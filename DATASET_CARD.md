@@ -38,4 +38,4 @@ GT-0560 retains the input wording used in the reported experiment, including its
 
 The 62 team-created questions, accompanying images and team-owned dataset documentation use [CC BY 4.0](licenses/LICENSE_DATA.md). Team-owned software uses [MIT](licenses/LICENSE_CODE.txt). Archived model-service outputs and other third-party materials retain their applicable terms. The original 623-question source-pool workbooks are outside the core download.
 
-Attribution: **GraphTheory-VL research team, GraphTheory-VL v1.0**. [Homepage](https://limxiong.github.io/GraphTheory-VL/) · [Release v1.0](https://github.com/limxiong/GraphTheory-VL/releases/tag/v1.0). Released September 11, 2026. The paper's arXiv identifier will be added when available.
+Attribution: **GraphTheory-VL research team, GraphTheory-VL v1.0**. [Homepage](https://limxiong.github.io/GraphTheory-VL/) · [Hugging Face dataset](https://huggingface.co/datasets/zixiong02/GraphTheory-VL) · [Release v1.0](https://github.com/limxiong/GraphTheory-VL/releases/tag/v1.0). Released September 11, 2026. The paper's arXiv identifier will be added when available.

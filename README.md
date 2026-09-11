@@ -9,9 +9,9 @@ Peking University. Dataset version: **v1.0**.
 
 ## Project website and downloads
 
-[Project homepage](https://limxiong.github.io/GraphTheory-VL/) · [Core dataset ZIP](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0.zip) · [Complete response archive](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0-responses.zip) · [Release v1.0](https://github.com/limxiong/GraphTheory-VL/releases/tag/v1.0)
+[Project homepage](https://limxiong.github.io/GraphTheory-VL/) · [Hugging Face dataset](https://huggingface.co/datasets/zixiong02/GraphTheory-VL) · [Core dataset ZIP](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0.zip) · [Complete response archive](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0-responses.zip) · [Release v1.0](https://github.com/limxiong/GraphTheory-VL/releases/tag/v1.0)
 
-The homepage contains four real examples, recorded results, the PDF draft and citation. For local preview and maintenance, see [WEBSITE.md](WEBSITE.md). The matching Hugging Face dataset is being prepared under `limxiong/GraphTheory-VL`.
+The homepage contains four real examples, recorded results, the PDF draft and citation. For local preview and maintenance, see [WEBSITE.md](WEBSITE.md). The matching [Hugging Face dataset](https://huggingface.co/datasets/zixiong02/GraphTheory-VL) provides `Challenge62` and `Hard20` configurations with embedded original images and direct `load_dataset` examples.
 
 ## Quick start
 
