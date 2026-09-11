@@ -16,11 +16,11 @@ The site uses plain HTML, CSS and JavaScript. This repository hosts the portable
 
 ## Release links
 
-The intended repositories are `limxiong/GraphTheory-VL` on GitHub and Hugging Face. Both entries in `docs/resources.js` currently have `available: false`. The page therefore displays a release preparation state; it does not link visitors to unverified destinations.
+The public homepage is https://limxiong.github.io/GraphTheory-VL/ and the code repository is https://github.com/limxiong/GraphTheory-VL. The core dataset and full response archive are published as assets of the v1.0 GitHub release. The matching Hugging Face dataset remains in preparation.
 
-After the repositories are uploaded and publicly accessible, verify both addresses, set their `available` fields to true, and update the release-status paragraph and badge in `docs/index.html`. Replace the draft PDF and citation when the paper's permanent identifier is available. Preserve the 62/20 nested relationship and the distinction between 984 scoring positions and 983 complete answers.
+Maintain links in `docs/resources.js` and the visible resource text in `docs/index.html`. Replace the draft PDF and citation when the paper's permanent identifier is available. Preserve the 62/20 nested relationship and the distinction between 984 scoring positions and 983 complete answers.
 
-The `docs/` folder includes `.nojekyll`. At public release, GitHub Pages can serve the main branch's `/docs` folder. Configure that setting only when proceeding to publication; the current folder alone does not enable hosting.
+GitHub Pages serves the main branch's `/docs` folder, which includes `.nojekyll`. Changes pushed to the branch trigger a Pages deployment.
 
 ## Third-party software
 

@@ -7,9 +7,11 @@ Peking University. Dataset version: **v1.0**.
 
 [中文使用指南](QUICKSTART_zh.md) · [Dataset card](DATASET_CARD.md) · [Data fields](SCHEMA.md) · [Evaluation guide](EVALUATION.md) · [Recorded results](results/RESULTS.md)
 
-## Project website
+## Project website and downloads
 
-The prepared [project homepage](docs/index.html) contains four real examples, recorded results, the PDF draft and citation. For local preview and future GitHub Pages setup, see [WEBSITE.md](WEBSITE.md). The intended GitHub and Hugging Face repositories are both `limxiong/GraphTheory-VL`; public links remain pending publication.
+[Project homepage](https://limxiong.github.io/GraphTheory-VL/) · [Core dataset ZIP](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0.zip) · [Complete response archive](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0-responses.zip) · [Release v1.0](https://github.com/limxiong/GraphTheory-VL/releases/tag/v1.0)
+
+The homepage contains four real examples, recorded results, the PDF draft and citation. For local preview and maintenance, see [WEBSITE.md](WEBSITE.md). The matching Hugging Face dataset is being prepared under `limxiong/GraphTheory-VL`.
 
 ## Quick start
 
@@ -41,7 +43,7 @@ Scripts also work from a different current directory when invoked by their full 
 | `licenses/` | Data and team-owned code license notices |
 | `docs/` | Static project homepage, sample images and draft paper |
 
-Complete answer bodies and individual judgment/reference records are in the separate **GraphTheory-VL-v1.0-responses.zip**. This core package is sufficient for loading the dataset and reproducing the main point estimates. The response archive is self-contained and can be extracted separately.
+Complete answer bodies and individual judgment/reference records are in the separate [GraphTheory-VL-v1.0-responses.zip](https://github.com/limxiong/GraphTheory-VL/releases/download/v1.0/GraphTheory-VL-v1.0-responses.zip). This core package is sufficient for loading the dataset and reproducing the main point estimates. The response archive is self-contained and can be extracted separately.
 
 ## Evaluate a new model
 
@@ -77,7 +79,7 @@ The 62 question texts and images were created by the GraphTheory-VL research tea
 
 ## Citation
 
-Use the author and dataset metadata in [CITATION.cff](CITATION.cff) to cite **GraphTheory-VL, version 1.0**. The author order follows the manuscript. A paper identifier, permanent resource links and release date will be added when available.
+Use the author and dataset metadata in [CITATION.cff](CITATION.cff) to cite **GraphTheory-VL, version 1.0**. The author order follows the manuscript. Version 1.0 was released on September 11, 2026. The paper identifier will be added when available.
 
 ## Development checks
 
