@@ -1,0 +1,19 @@
+{
+  "experiment_id": "claude-opus-4-8-krill-challenge-original-4roll-128k",
+  "condition": "original_image",
+  "model": "claude-opus-4-8",
+  "base_url": "https://api-slb.krill-code.net",
+  "max_tokens": 128000,
+  "stream": true,
+  "rolls": 4,
+  "seed": 20260823,
+  "sampling": "provider_default",
+  "prompt_template_version": "claude_krill_graph_vision_v1",
+  "configuration_id": "125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260",
+  "prepared_at_utc": null,
+  "provenance": {
+    "source_locator": "evaluation/claude_krill/summary.json",
+    "source_line": null,
+    "original_file_sha256": "305873f28e3815fc290ce952c68aa12828ba29292c708c41234f2e30f4b89aaf"
+  }
+}

@@ -1,0 +1,3938 @@
+[
+  {
+    "audit_id": "gpt::original::GT-0019::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0019::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0019::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0019::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0050::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0050::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0050::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0050::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0061::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0061::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0061::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0061::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0164::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0164::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0164::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0164::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0244::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0244::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0244::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0244::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0248::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0248::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0248::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0248::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0291::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0291::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0291::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0291::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0302::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0302::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0302::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0302::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0305::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0305::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0305::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0305::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0317::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0317::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0317::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0317::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0361::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0361::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0361::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0361::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0385::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0385::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0385::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0385::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0411::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0411::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0411::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0411::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0424::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0424::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0424::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0424::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0437::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0437::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0437::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0437::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0516::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0516::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0516::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0516::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0526::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0526::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0526::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0526::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0543::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0543::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0543::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0543::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0554::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0554::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0554::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0554::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0585::1",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0585::2",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0585::3",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0585::4",
+    "configuration_path": "protocol/configurations/47d295ca1955d307f0c4ab10c5aaa1f9787a0d73890f86a625598d2c98befcfd.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0019::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0019::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0019::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0019::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0050::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0050::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0050::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0050::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0061::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0061::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0061::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0061::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0164::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0164::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0164::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0164::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0244::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0244::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0244::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0244::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0248::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0248::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0248::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0248::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0291::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0291::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0291::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0291::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0302::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0302::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0302::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0302::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0361::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0361::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0361::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0361::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0411::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0411::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0411::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0411::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0516::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0516::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0516::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0516::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0554::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0554::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0554::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0554::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0585::1",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0585::2",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0585::3",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0585::4",
+    "configuration_path": "protocol/configurations/dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0019::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0019::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0019::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0019::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0050::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0050::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0050::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0050::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0061::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0061::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0061::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0061::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0164::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0164::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0164::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0164::4",
+    "configuration_path": "protocol/configurations/ec1c4051a46813c9afaa26fc44d07d9a05c8bb8279ef1c84bd3cce0e084bfb31.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0244::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0244::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0244::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0244::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0248::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0248::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0248::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0248::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0291::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0291::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0291::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0291::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0302::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0302::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0302::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0302::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0305::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0305::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0305::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0305::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0317::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0317::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0317::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0317::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0361::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0361::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0361::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0361::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0385::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0385::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0385::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0385::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0411::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0411::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0411::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0411::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0424::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0424::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0424::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0424::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0437::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0437::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0437::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0437::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0516::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0516::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0516::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0516::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0526::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0526::2",
+    "configuration_path": "protocol/configurations/ec1c4051a46813c9afaa26fc44d07d9a05c8bb8279ef1c84bd3cce0e084bfb31.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0526::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0526::4",
+    "configuration_path": "protocol/configurations/ec1c4051a46813c9afaa26fc44d07d9a05c8bb8279ef1c84bd3cce0e084bfb31.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0543::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0543::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0543::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0543::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0554::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0554::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0554::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0554::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0585::1",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0585::2",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0585::3",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0585::4",
+    "configuration_path": "protocol/configurations/9b0f0da083df78f58cc896ea6f013a16e3555987f2755cff6f5d7c637547ccf3.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0019::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0019::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0019::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0019::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0050::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0050::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0050::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0050::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0061::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0061::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0061::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0061::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0164::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0164::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0164::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0164::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0244::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0244::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0244::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0244::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0248::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0248::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0248::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0248::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0291::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0291::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0291::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0291::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0302::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0302::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0302::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0302::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0361::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0361::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0361::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0361::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0411::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0411::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0411::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0411::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0516::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0516::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0516::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0516::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0554::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0554::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0554::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0554::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0585::1",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0585::2",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0585::3",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0585::4",
+    "configuration_path": "protocol/configurations/c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0004::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0004::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0004::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0004::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0008::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0008::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0008::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0008::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0010::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0010::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0010::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0010::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0012::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0012::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0012::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0012::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0016::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0016::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0016::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0016::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0018::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0018::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0018::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0018::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0019::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0019::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0019::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0019::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0049::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0049::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0049::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0049::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0050::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0050::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0050::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0050::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0061::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0061::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0061::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0061::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0070::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0070::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0070::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0070::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0081::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0081::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0081::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0081::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0084::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0084::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0084::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0084::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0102::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0102::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0102::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0102::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0138::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0138::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0138::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0138::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0163::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0163::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0163::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0163::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0164::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0164::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0164::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0164::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0167::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0167::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0167::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0167::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0168::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0168::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0168::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0168::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0207::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0207::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0207::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0207::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0208::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0208::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0208::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0208::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0216::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0216::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0216::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0216::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0219::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0219::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0219::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0219::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0230::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0230::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0230::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0230::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0239::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0239::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0239::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0239::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0244::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0244::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0244::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0244::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0248::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0248::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0248::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0248::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0255::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0255::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0255::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0255::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0277::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0277::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0277::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0277::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0282::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0282::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0282::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0282::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0288::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0288::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0288::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0288::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0291::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0291::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0291::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0291::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0302::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0302::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0302::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0302::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0305::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0305::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0305::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0305::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0317::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0317::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0317::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0317::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0325::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0325::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0325::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0325::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0361::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0361::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0361::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0361::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0372::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0372::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0372::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0372::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0374::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0374::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0374::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0374::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0382::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0382::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0382::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0382::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0385::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0385::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0385::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0385::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0394::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0394::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0394::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0394::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0395::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0395::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0395::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0395::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0402::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0402::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0402::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0402::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0411::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0411::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0411::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0411::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0424::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0424::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0424::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0424::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0426::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0426::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0426::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0426::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0436::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0436::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0436::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0436::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0437::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0437::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0437::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0437::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0495::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0495::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0495::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0495::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0503::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0503::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0503::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0503::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0514::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0514::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0514::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0514::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0516::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0516::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0516::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0516::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0524::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0524::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0524::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0524::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0526::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0526::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0526::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0526::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0543::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0543::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0543::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0543::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0547::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0547::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0547::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0547::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0554::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0554::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0554::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0554::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0560::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0560::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0560::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0560::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0572::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0572::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0572::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0572::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0573::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0573::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0573::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0573::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0585::1",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0585::2",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0585::3",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::original::GT-0585::4",
+    "configuration_path": "protocol/configurations/125714b6b908bbbcac4872205ff740e45cb147f78cbd9e0d2660d246c720e260.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0019::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0019::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0019::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0019::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0050::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0050::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0050::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0050::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0061::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0061::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0061::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0061::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0164::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0164::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0164::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0164::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0244::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0244::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0244::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0244::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0248::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0248::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0248::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0248::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0291::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0291::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0291::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0291::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0302::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0302::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0302::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0302::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0361::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0361::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0361::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0361::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0411::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0411::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0411::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0411::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0516::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0516::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0516::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0516::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0554::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0554::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0554::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0554::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0585::1",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0585::2",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0585::3",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0585::4",
+    "configuration_path": "protocol/configurations/cdedc1481bfe5667ff0536ccdd5fb1e638046df536f12696737d52f0d6670637.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0102::1",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0102::2",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0102::3",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0102::4",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0102::1",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0102::2",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0102::3",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0102::4",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0102::1",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0102::2",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0102::3",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0102::4",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0102::1",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0102::2",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0102::3",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0102::4",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0102::1",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0102::2",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0102::3",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0102::4",
+    "configuration_path": "protocol/configurations/1630fc20db63b07bb4a40f200e4ed1436c1bda81b301d7899bb91d6c6ce6d56d.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0216::1",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0216::2",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0216::3",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0216::4",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0216::1",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0216::2",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0216::3",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0216::4",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0216::1",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0216::2",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0216::3",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0216::4",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0216::1",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0216::2",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0216::3",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0216::4",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0216::1",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0216::2",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0216::3",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0216::4",
+    "configuration_path": "protocol/configurations/ef01a892b3cc5bb455ca85bd55e339d2de8bfcaf00630133361140bb39bf5aa8.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0288::1",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0288::2",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0288::3",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0288::4",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0288::1",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0288::2",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0288::3",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0288::4",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0288::1",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0288::2",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0288::3",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0288::4",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0288::1",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0288::2",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0288::3",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0288::4",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0288::1",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0288::2",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0288::3",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0288::4",
+    "configuration_path": "protocol/configurations/562ac4e3d00130379140e8d4c2aba13dcdb62336a152ef52cfbc438df4ce2f37.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0382::1",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0382::2",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0382::3",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0382::4",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0382::1",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0382::2",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0382::3",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0382::4",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0382::1",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0382::2",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0382::3",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0382::4",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0382::1",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0382::2",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0382::3",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0382::4",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0382::1",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0382::2",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0382::3",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0382::4",
+    "configuration_path": "protocol/configurations/f619eecc7f0feb152a782457a08d4a36bc7b984093abb896a803a4c42a8d5d3b.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0395::1",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0395::2",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0395::3",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0395::4",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0395::1",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0395::2",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0395::3",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0395::4",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0395::1",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0395::2",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0395::3",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0395::4",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0395::1",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0395::2",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0395::3",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0395::4",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0395::1",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0395::2",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0395::3",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0395::4",
+    "configuration_path": "protocol/configurations/64794c9c2c7599ac03fc91302c3b8f6b14dac99b529660899a23bbac7b02a0b9.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0514::1",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0514::2",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0514::3",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0514::4",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0514::1",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0514::2",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0514::3",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0514::4",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0514::1",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0514::2",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0514::3",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0514::4",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0514::1",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0514::2",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0514::3",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0514::4",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0514::1",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0514::2",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0514::3",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0514::4",
+    "configuration_path": "protocol/configurations/70b2de6f408f68c6aefc9e86a489d98a1f001f9e720575b0266949fe237a0453.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0560::1",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0560::3",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0560::4",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0560::1",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0560::2",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0560::3",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0560::4",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0560::1",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0560::2",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0560::3",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gemini::text_only::GT-0560::4",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0560::1",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0560::2",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0560::3",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0560::4",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0560::1",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0560::2",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0560::3",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::text_only::GT-0560::4",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "claude::text_only::GT-0560::2",
+    "configuration_path": "protocol/configurations/5513f9fff1528b53b99eee7db5c7eb53e6dfd5378c2157308de1cc10219e7949.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0004::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0004::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0004::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0004::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0004::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0004::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0004::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0008::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0008::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0008::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0008::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0010::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0010::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0004::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0010::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0010::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0012::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0012::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0012::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0008::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0012::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0016::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0016::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0008::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0016::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0010::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0008::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0016::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0018::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0018::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0018::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0018::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0049::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0049::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0049::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0070::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0049::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0070::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0010::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0070::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0070::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0081::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0081::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0010::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0081::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0081::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0012::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0084::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0084::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0012::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0138::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0010::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0138::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0084::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0084::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0138::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0163::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0138::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0012::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0163::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0163::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0163::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0012::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0167::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0167::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0167::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0167::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0168::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0168::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0168::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0168::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0207::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0207::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0207::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0208::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0208::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0208::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0207::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0208::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0219::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0219::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0219::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0219::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0230::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0230::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0239::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0230::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0016::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0230::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0239::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0239::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0239::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0016::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0255::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0255::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0016::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0277::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0255::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0255::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0277::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0277::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0016::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0277::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0282::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0282::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0282::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0282::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0325::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0325::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0325::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0325::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0372::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0372::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0372::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0372::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0374::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0374::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0374::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0374::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0394::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0402::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0402::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0402::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0426::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0426::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0426::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0436::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0426::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0436::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0436::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0436::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0495::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0495::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0495::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0495::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0503::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0503::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0503::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0524::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0503::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0524::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0524::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0524::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0547::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0547::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0547::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0572::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0547::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0572::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0572::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0573::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0572::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0573::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0573::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0573::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0394::2",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0394::3",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0394::4",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gemini::original::GT-0402::1",
+    "configuration_path": "protocol/configurations/46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0018::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0049::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0049::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0049::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0049::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0070::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0070::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0018::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0070::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0070::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0163::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0084::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0084::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0163::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0138::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0163::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0138::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0138::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0163::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0138::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0168::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0167::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0168::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0168::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0168::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0207::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0167::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0207::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0207::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0207::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0208::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0208::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0167::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0167::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0208::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0230::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0208::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0239::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0219::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0219::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0239::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0239::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0219::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0230::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0230::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0239::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0230::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0325::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0277::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0282::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0282::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0325::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0325::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0282::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0372::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0374::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0374::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0374::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0325::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0372::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0372::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0436::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0436::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0436::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0495::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0503::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0524::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0524::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0524::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0503::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0495::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0524::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0495::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0495::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0572::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0547::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0547::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0547::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0573::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0572::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0547::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0503::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0572::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0573::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0573::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0573::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0572::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0503::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0018::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0081::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0018::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0081::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0081::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0081::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0084::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0084::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0219::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0255::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0255::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0255::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0277::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0255::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0277::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0277::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0372::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0282::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0374::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0394::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0394::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0394::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0426::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0426::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0436::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0426::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0394::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0402::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0402::2",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0402::4",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0402::3",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0426::1",
+    "configuration_path": "protocol/configurations/e21c30c14a3f845f79e2a3e89da78c2750085a61c608bbf852c2cb0c2acf4d0f.json"
+  },
+  {
+    "audit_id": "gpt::original::GT-0008::3",
+    "configuration_path": "protocol/configurations/67b9bcc3389481813a7f41e669ac19159a08649f5dc85e9cafe094096a1a2f61.json"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "gpt-hard-text-only-4roll",
+  "condition": "text_only",
+  "image_transmitted": false,
+  "provider": "gpt",
+  "model": "gpt-5.6-luna",
+  "base_url": "https://api-slb.krill-code.net/codex/v1",
+  "max_tokens": 128000,
+  "request_protocol": "openai_responses",
+  "stream": false,
+  "reasoning_effort": "high",
+  "rolls": 4,
+  "seed": 20260823,
+  "sampling": "provider_default",
+  "prompt_template_version": "graph_text_only_v1",
+  "configuration_id": "dc4ed2f23a4a25c8d690d708c7e1f22354ee19451b1b9fe2c6fa8599cc06e412",
+  "prepared_at_utc": null,
+  "provenance": {
+    "source_locator": "evaluation/text_only/gpt/summary.json",
+    "source_line": null,
+    "original_file_sha256": "51ecacc39f3a56f411e0499783380db9c2166bdbf8c3909f30a185dca66dc513"
+  }
+}

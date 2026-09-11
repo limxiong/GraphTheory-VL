@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0207",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nAdopt \\(\\mathcal F\\) as a finite family of plane trees whose vertices are represented by circular marks joined by straight strokes. The supplied asset specifies \\(\\mathcal F\\) as follows: every maximal connected drawing separated from all other drawings by blank space is one member \\(T\\). Treat every circular mark, filled black or open white, as a vertex. Two vertices are adjacent exactly when they are consecutive circular marks along the same uninterrupted stroke. Thus, if several circles lie on one straight stroke, each consecutive pair determines an edge, and the full stroke does not create an additional edge bypassing an intermediate circle. No vertex is introduced at a bend, in an empty region, or at any point lacking a circular mark. Count every connected drawing once in its displayed position. Distinct displayed members remain distinct even if their abstract trees become isomorphic after cyclic branch order is forgotten, or after a rotation or reflection. Apparent lengths, angles, slopes, circle sizes, and line thicknesses carry no numerical weights. The two fill styles may be used to check which vertices are leaves and which are internal vertices, but fill style does not modify adjacency.\n\nFor each \\(T\\in\\mathcal F\\), construct its line graph \\(L(T)\\). A vertex of \\(L(T)\\) corresponds to an edge of \\(T\\), and two vertices of \\(L(T)\\) are adjacent precisely when their corresponding edges share an endpoint in \\(T\\). For any finite connected graph \\(G\\), let \\(\\tau(G)\\) be its number of spanning trees. Define\n\\[\nS=\\sum_{T\\in\\mathcal F}\\tau(L(T)),\\qquad P=\\prod_{T\\in\\mathcal F}\\tau(L(T)).\n\\]\nDetermine the ordered pair \\((S,P)\\). Preserve the visual multiplicity of every connected drawing, including cases in which several members yield the same value of \\(\\tau(L(T))\\). Express \\(P\\) in exact prime-power form and do not expand it into a decimal integer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0207.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "3ca5022a8df835601c422ff5fc4bc164c29689ef7a4fb3183c6b9399132955d7"
+}

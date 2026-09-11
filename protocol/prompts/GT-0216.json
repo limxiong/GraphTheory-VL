@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0216",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThe construction uses \\(G\\) as a finite planar polygonal cell complex whose bounded faces each contain exactly one marked site. In the complete visual asset, interpret every blue mark as one site and every closed gray polygonal region containing that mark as one bounded face. Interpret every visibly drawn gray segment between consecutive visible endpoints as one edge, including segments lying on the outer rectangular boundary. A visible meeting point of segment endpoints is a vertex; collinear segments remain separate whenever an endpoint is visibly present.\n\nUse the entire displayed mesh as the available data. Count every bounded face, including faces touching the rectangle, and do not infer any subdivision, site, edge, or vertex that is not visibly represented. Let \\(N\\) denote the number of bounded faces. Let \\(b\\) denote the number of edge segments in the outer rectangular boundary. Let \\(E_{\\text{int}}\\) denote the number of edges not contained in that boundary. Finally, let \\(S\\) be the total side-incidence count of all bounded faces: an interior edge contributes two incidences because it borders two bounded faces, while a boundary edge contributes one incidence because its other side borders the exterior.\n\nAssume the visible complex is a generic planar Voronoi-type complex. Every vertex strictly inside the rectangle has degree three. Every noncorner boundary vertex has two boundary edges and one edge entering the interior, and each rectangle corner has degree two. Use the visual asset to determine \\(N\\) and \\(b\\), then use Euler's relation and the degree-sum relation for the full embedded graph, including the exterior face. Return the ordered positive integer tuple \\((N,E_{\\text{int}},S)\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0216.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "5296ac1be5bc34a8fa37271eee2196cd1e932c55f6f75308be3da095fb53cfc9"
+}

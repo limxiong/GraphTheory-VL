@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0138",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nAssume \\(P\\) to be the finite set of idealized centers of the large colored markers in the complete supplied square graphic, with the blue central aperture excluded. Count every gray disk, gold disk, and star-like glyph exactly once, and regard a small contrasting dot inside a larger glyph as decoration belonging to that glyph. The complete graphic is indispensable evidence for constructing \\(P\\): use every visible radial layer and every outer marker, not a guessed continuation of a partial pattern. Replace each glyph by its intended center, ignore raster anti-aliasing and color differences after the centers have been identified, and treat those centers as exact points in the plane. Let \\(O\\) be the geometric center of the blue aperture. Define \\(G\\) to be the group of Euclidean isometries that carry \\(P\\) onto itself, and let \\(G_{\\mathrm{rot}}\\) be the subgroup consisting of rotations about \\(O\\) that preserve \\(P\\). Let \\(r\\) be the order of \\(G_{\\mathrm{rot}}\\). Let \\(m\\) be the number of distinct reflection lines through \\(O\\) that preserve \\(P\\). A line is counted once even if several layers contain centers on it. Determine the ordered pair \\((r,m)\\) from the full marker-center arrangement. Your argument must use the outer layers to test the apparent repeated local motifs, verify the actual rotational period about \\(O\\), and identify all reflection lines through \\(O\\). It must also explain why the circular background, the aperture boundary, marker colors, and the approximate smoothness of the outer envelope do not create additional symmetries of the point set. The answer concerns the exact finite set of intended marker centers encoded by the complete graphic, not a symmetry of the canvas or of an idealized circle.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0138.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "80d69c0bc9bb5d48a3ce96cd94859be349d093bd3a61f5a531138e700317e65d"
+}

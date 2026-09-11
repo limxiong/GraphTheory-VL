@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0012",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nAssume \\(G\\) to be the finite simple graph formed by the labeled corners and polygonal boundary sides of the given polyhedral presentation. Use the complete presentation as the incidence record for \\(G\\), including every visible portion of the solid. Each of the six parenthesized ordered pairs names the nearby geometric corner, even when the typeset label is offset into a face or lies outside the silhouette. Two labeled corners are adjacent exactly when a polygonal boundary side of the solid has those corners as its terminal endpoints. Include silhouette sides and sides shared by two polygonal faces, regardless of whether the adjacent regions have the same gray level. If perspective, shading, or occlusion makes one side appear in separated straight pieces, trace the whole side to its two labeled terminal corners. Count a shared side only once.\n\nThe gray levels carry no algebraic weights and give no edge orientation. A gray-level change by itself creates neither a vertex nor an edge. An apparent overlap or crossing away from a labeled corner creates no vertex, and no diagonal may be inserted across a polygonal face. There are exactly six vertices, one for each parenthesized label, and every genuine side used as an edge has two labeled endpoints. Treat each ordered pair solely as a vertex name. Agreement in one coordinate alone does not force adjacency, and disagreement in both coordinates does not prohibit it. Once the incidences have been recorded, discard perspective, label placement, face visibility, and shading.\n\nFor any finite simple graph \\(X\\), define its line graph \\(L(X)\\) to have one vertex for every edge of \\(X\\). Two vertices of \\(L(X)\\) are adjacent exactly when their corresponding edges of \\(X\\) share an endpoint. Define \\(H=L(L(G))\\). For any connected finite graph \\(X\\), let \\(\\tau(X)\\) denote its number of spanning trees. Apply the stated simple line-graph convention, so no loops or parallel edges are introduced. It is guaranteed that all graphs needed here are connected and that \\(\\tau(H)=2^a3^b5^c\\) for unique positive integers \\(a,b,c\\). Determine the ordered triple \\((a,b,c)\\) in the fixed prime order \\((2,3,5)\\). Give the exponent triple, not the expanded spanning-tree count.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0012.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "2bb6f1a589b86eb5eee1f0ac95b8d742e777c8de8106e7f72472e71d5a43c431"
+}

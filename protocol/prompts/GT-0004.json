@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0004",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFix \\(\\lambda\\) as the partition encoded by the displayed left-justified array of congruent square cells in French convention. Every outlined square is exactly one cell, each shared line segment only separates neighboring cells, and the array is complete, with no cell omitted, hidden, labeled, shaded, or supplied by surrounding blank space. Index the rows upward from the bottom and the columns rightward from the left, both starting at \\(1\\), so the longest row is row \\(1\\). For each row \\(i\\), let \\(\\lambda_i\\) be its cell count, and set \\(n=|\\lambda|\\). For a cell \\((i,j)\\), define its French hook to contain that cell, all cells strictly to its right in row \\(i\\), and all cells strictly above it in column \\(j\\); denote its size by \\(h_{ij}\\). Let \\(\\lambda'\\) be the conjugate partition, so \\(\\lambda'_j\\) is the height of column \\(j\\). Recover both \\(\\lambda\\) and \\(\\lambda'\\) from the displayed row widths and column heights before selecting the representation-theoretic branch. Let \\(S^\\lambda\\) denote the complex Specht module of \\(S_n\\). Apply the standard restriction rule: when \\(\\lambda=\\lambda'\\), one has \\(S^\\lambda\\!\\downarrow_{A_n}=V^+\\oplus V^-\\), where the two summands are inequivalent irreducible modules of equal dimension; otherwise the restriction remains irreducible. Your cell counts determine the applicable branch. In the self-conjugate branch, write \\(d=\\dim V^+=\\dim V^-\\), and let \\(\\chi^+\\) and \\(\\chi^-\\) be the corresponding characters. Let \\(r\\) be the number of cells \\((i,i)\\), and list their hook lengths as \\(q_1>\\cdots>q_r\\). These distinct odd lengths specify an \\(S_n\\)-class of cycle type \\((q_1,\\ldots,q_r)\\) that splits into two \\(A_n\\)-classes. Choose \\(g\\) from either half and define \\(\\rho=|\\chi^+(g)-\\chi^-(g)|\\), using complex modulus. Interchanging the constituent names or the two class halves does not change \\(\\rho\\). Determine the ordered pair \\((d,\\rho)\\) in positive exact form. You may use \\(\\dim S^\\lambda=n!/\\prod_{(i,j)\\in\\lambda}h_{ij}\\) and \\(\\chi^+(g)-\\chi^-(g)=\\pm\\sqrt{\\varepsilon_\\lambda\\prod_{k=1}^r q_k}\\), where \\(\\varepsilon_\\lambda=(-1)^{(n-r)/2}\\). Keep prime powers and simplified radicals unexpanded.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0004.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "86ea18567c6a7f02189355a88137bc4842997eb81f2277b0fd2b1740afbee6c2"
+}

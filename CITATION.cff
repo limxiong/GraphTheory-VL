@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use GraphTheory-VL, please cite the dataset using this metadata."
+title: "GraphTheory-VL"
+version: "1.0"
+license: CC-BY-4.0
+authors:
+  - family-names: "Yang"
+    given-names: "Zixiong"
+    affiliation: "Peking University"
+  - family-names: "Zhou"
+    given-names: "Kuo"
+    affiliation: "Peking University"
+  - family-names: "Pan"
+    given-names: "Ruwei"
+    affiliation: "Peking University"
+  - family-names: "Gao"
+    given-names: "Jiaran"
+    affiliation: "Peking University"
+  - family-names: "Wu"
+    given-names: "Sihan"
+    affiliation: "Peking University"
+  - family-names: "Zhang"
+    given-names: "Lu"
+    affiliation: "Peking University"
+abstract: "GraphTheory-VL contains 62 visual mathematics problems with a nested 20-problem hard subset, reference answers, and archived evaluation labels."
+keywords:
+  - visual mathematical reasoning
+  - graph theory
+  - benchmark

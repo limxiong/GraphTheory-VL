@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0288",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nDefine the ordered three-row signature \\(S=(s_1,s_2,s_3)\\), where each row signature records three visual-combinatorial quantities extracted from a fixed three-column composite. Use the supplied complete composite as indispensable evidence, and read each horizontal band as one row with three linked panels. The top, middle, and bottom bands are rows \\(1\\), \\(2\\), and \\(3\\), respectively; the left, central, and right panels are the three columns.\n\nFor row \\(r\\), let \\(b_r\\) be the number of visibly continuous heavy black simple closed curves in the left panel. Count the large enclosing curve and the smaller central curve when present. Do not count gray outlines of individual disks, red marked points, or short black segments that fail to form a standalone closed curve. Let \\(y_r\\) be the number of triangular graph faces in the central panel whose interiors are visibly filled solid yellow. Count a face only when its triangular boundary is formed by graph edges and its whole interior is yellow. Exclude green faces, unfilled cycles, isolated vertices, and partial or nontriangular regions.\n\nFinally, let \\(p_r\\) be the number of distinct fill hues used on polygonal faces in the right panel. Count each hue once per panel, even when it occurs on several disconnected faces. Treat yellow, green, orange, and purple as distinct hues; black edges and red vertex marks do not contribute to \\(p_r\\). Preserve the top-to-bottom row correspondence across all three columns. Determine \\(S\\) as an exact nested tuple of positive integers. Return only the nested tuple, with no prose, variable names, or explanatory labels inside the answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0288.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "77bbcde4cf136176069cfcf59568e2a8655f754d62a2e58e474a9bfa8c18c389"
+}

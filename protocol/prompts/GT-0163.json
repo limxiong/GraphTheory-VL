@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0163",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nUse a finite planar cubical set \\(K\\) to determine a quotient space \\(Y\\) by collapsing all of \\(K\\) to one point inside the one-point compactification of the plane. Use the native pixel array of the supplied raster without smoothing, interpolation, curve fitting, or completion of interrupted strokes. For each pixel with integer indices \\((i,j)\\), let \\(r_{ij},g_{ij},b_{ij}\\) be its red, green, and blue channel values. Call the pixel active precisely when \\(r_{ij}>0\\) and \\(g_{ij}=b_{ij}=0\\). Replace every active pixel by the closed unit square \\(Q_{ij}=[i,i+1]\\times[j,j+1]\\), and let \\(K\\subset\\mathbb R^2\\) be the union of all such squares. Thus squares sharing even a corner meet in \\(K\\), while pieces separated by black pixels are not joined. The black gaps visible between red portions are genuine separations; do not insert hidden arcs, labels, crossings, or continuations. Regard \\(S^2=\\mathbb R^2\\cup\\{\\infty\\}\\) as the one-point compactification, with \\(K\\) lying away from \\(\\infty\\), and form \\(Y=S^2/K\\), where every point of \\(K\\) is identified to a single point and no other identifications are made. All homology groups are reduced singular homology groups with integer coefficients. Determine the reduced integral Poincare polynomial\n$$\n\\widetilde P_Y(t)=\\sum_{q\\geq 0}\\operatorname{rank}_{\\mathbb Z}\\widetilde H_q(Y;\\mathbb Z)t^q.\n$$\nThe component structure and the presence or absence of cycles in \\(K\\) must be read from the active red trace itself. Give the polynomial with nonzero terms arranged in increasing degree.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0163.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "24668885dc5815c35635b29282c927e7cd718eec77618d49f1f93152ae4c5080"
+}

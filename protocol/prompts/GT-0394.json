@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0394",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThink of \\(G\\) as the planar graph formed by the union of the eight unit squares whose tile centers start at \\((0,0)\\) and make successive moves east, east, east, north, east, east, north. Every tile corner is a vertex, and every horizontal or vertical unit segment in the union is an edge. A side shared by two tiles is one edge of \\(G\\), and no diagonal, curved arc, or auxiliary segment from the left panel is included.\n\nUse the complete supplied drawing to read the label printed on every edge of the square snake. The two panels establish the label families: every symbol of the form \\(\\tau_i\\) belongs to the tau-family, and every symbol of the form \\(\\delta_i\\) belongs to the delta-family. A label subscript has no effect on the weight. If a label is placed slightly inside a neighboring square, associate it with the nearest parallel unit side indicated by the drawing. Gray shading and line thickness are only visual guides and do not alter the graph or its edge labels.\n\nAssign weights by\n$$w(e)=\\begin{cases}x,&\\text{if the printed label of }e\\text{ is }\\tau_i,\\\\y,&\\text{if the printed label of }e\\text{ is }\\delta_i.\\end{cases}$$\nA perfect matching is a set \\(M\\) of edges such that every vertex of \\(G\\) is incident with exactly one edge of \\(M\\). Define the matching generating polynomial by\n$$Z_G(x,y)=\\sum_{M\\text{ a perfect matching}}\\prod_{e\\in M}w(e).$$\nThe coefficient of a monomial records the number of distinct perfect matchings producing that monomial. Using the edge labels exactly as displayed in the complete drawing, determine the fully expanded polynomial \\(Z_G(x,y)\\), with all like monomials collected.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0394.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "76577094c7c252f4fd85105393dda7e49b5751abfa00af85ec3a26d00a714743"
+}

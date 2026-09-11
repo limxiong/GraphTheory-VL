@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0282",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nA connected orientable ribbon graph \\(J\\) is specified by the middle band-and-disk presentation in the given arrangement. Use the left-hand panels labeled H1 and G2, the arrow labeled taking permissible join, the middle unlabeled presentation, and the right-hand panel labeled H2 exactly as arranged: these placements identify which object is \\(J\\) and distinguish it from the two labeled inputs and the related output. Treat every gray disk in the middle presentation as one vertex and every gray band as one edge. A band that passes behind or across another band in the plane is still a single band, and an apparent crossing is not a vertex unless it is a gray disk. The cyclic order at each vertex is the order in which the incident band ends occur around the boundary of that disk. Every band is untwisted, and the middle presentation is regarded as a connected orientable ribbon graph with precisely the attachments visibly prescribed there. Do not count the arrow, its text, the wavy relation mark, panel labels, or any planar overlap as a graph element. The two labeled left-hand panels and the labeled right-hand panel are part of the identification data: do not replace the permissible join by a disjoint union, an ordinary planar graph union, or an operation inferred only from the labels. Let \\(v(J)\\) denote the number of vertex disks, let \\(e(J)\\) denote the number of untwisted edge bands, and let \\(b(J)\\) denote the number of boundary components of the compact surface obtained by thickening \\(J\\) according to its displayed cyclic orders. Determine the ordered triple \\((v(J), e(J), b(J))\\) as one exact tuple of integers.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0282.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "bcebfb6164b1b3b38e01b22caff61637ed201656ac4492573da774638009dc14"
+}

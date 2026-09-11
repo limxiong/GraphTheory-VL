@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0317",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWrite G for the unweighted simple graph with vertex set consisting of the fourteen buses labeled 1 through 14 in the complete network drawing. Every continuous blue transmission branch whose endpoints are bus terminals contributes one undirected edge between those two bus labels. A branch may bend or change direction and still contributes only one edge. Use every blue inter-bus branch visible in the entire drawing, including branches in both the upper and lower parts of the network. A crossing without a red bus terminal is not a junction. Do not introduce edges from black arrows, generators, loads, shunt symbols, red terminal marks, or text labels. The drawing is the indispensable source of the adjacency relation, so geometric closeness alone cannot create an edge and electrical quantities play no role. Let \\(\\tau(G)\\) be the number of spanning trees of \\(G\\). Let \\(A(G)\\) be the set of articulation vertices: a vertex \\(v\\) belongs to \\(A(G)\\) exactly when deleting \\(v\\) together with all incident edges increases the number of connected components. Determine the ordered triple \\((\\tau(G), |A(G)|, a)\\), where \\(a\\) is the bus label of the unique articulation vertex. Your response must be one exact ordered triple of positive integers. In particular, count spanning trees in the unweighted graph only, ignore all orientations and numerical device data, and distinguish carefully between a direct blue branch and a visual crossing. The complete drawing must therefore be used to recover the full topology before applying any graph-theoretic theorem.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0317.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "f34c8f5d7e8935ffb9f24acd337de32660dddb9c1e13e492c3c3144c3efb6ca9"
+}

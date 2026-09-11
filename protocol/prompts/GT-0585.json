@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0585",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe take \\(f:\\{0,1,\\ldots,47\\}\\to\\{0,1\\}\\) to be the classifier obtained by tracing the complete displayed decision tree. Interpret the terminal label \\(\\text{jump}\\) as \\(1\\), and interpret \\(\\text{no jump}\\) as \\(0\\). At every internal node whose displayed condition is \\(\\text{split type}\\le a\\), substitute the integer input \\(x\\) for \\(\\text{split type}\\); take the left branch when \\(x\\le a\\), and take the right branch when \\(x>a\\). The terminal class text is decisive, including at a leaf whose two displayed class counts are equal. The node colors, Gini entries, sample totals, and value arrays are auxiliary visual information and do not alter the printed terminal class. Use every branch visible in the complete tree, including branches that create isolated changes in the final classification.\n\nFor each \\(x\\in\\{0,1,\\ldots,46\\}\\), call the boundary between \\(x\\) and \\(x+1\\) active when \\(f(x)\\ne f(x+1)\\). Encode that boundary by the positive odd integer \\(c=2x+1\\), so that the boundary at \\(x+\\tfrac12\\) receives the code \\(c\\). Let \\(C\\) be the set of codes of all active boundaries. Define the transition polynomial by\n\\[Q(u)=\\prod_{c\\in C}(u-c).\\]\nDetermine \\(Q(u)\\) using the displayed tree. Give the answer in completely factored form over \\(\\mathbb Z\\), with distinct linear factors ordered by increasing positive root. The requested object is one polynomial, not a list of intermediate classifications or split thresholds.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0585.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "6918dcd9c6ec56a87fd2b778029de278aaaa0a179d03a27e0b6b7cd4c5b0fb2c"
+}

@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0361",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIn this setup, consider \\(G=(V,E)\\) to be the finite embedded graph encoded by the complete colored drawing, with one vertex for every colored circular node and one edge for every visible straight segment joining two node centers. A crossing of two segments without a circular node does not create a vertex, and a line color has no effect on whether its endpoint nodes are vertices. Count every circular node separately, including closely spaced or partially overlapping circles whenever their boundaries identify distinct nodes. Let \\(Y\\) be the subset of \\(V\\) consisting exactly of nodes whose interiors are bright yellow. Nodes filled red, blue, orange, gray, or purple are excluded from \\(Y\\), even when they touch a yellow segment or lie inside the same visual region. Define \\(H=G[Y]\\) to be the induced subgraph: an edge of \\(G\\) belongs to \\(H\\) precisely when both of its endpoints are in \\(Y\\). Thus yellow line segments are edges, not additional vertices, and crossings or near contacts do not join components unless a drawn edge has the required yellow endpoints. Let \\(C(H)\\) be the set of connected components of \\(H\\). Order these components from top to bottom using the vertical coordinate of their centroids, and denote their vertex counts by \\(s_1,s_2,\\dots,s_k\\). Let \\(T=|Y|\\) be the total number of yellow vertices. Use the entire finite drawing, including all repeated yellow clusters at every visible height, and do not extend the pattern beyond the displayed endpoints. Determine the ordered integer tuple \\((k,s_1,T)\\). Return only this tuple as the mathematical answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0361.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "b458013f6fa38c473b758ceecb619341e84c3ce688efb111a54ec2dc85f4fefe"
+}

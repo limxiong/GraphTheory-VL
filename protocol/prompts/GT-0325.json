@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0325",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nUnderstand \\(H\\) to be the simple undirected adjacency graph of the four principal color domains represented by the complete colored cell array, and let \\(\\tau(H)\\) be its spanning-tree count. The saturated domains are labeled \\(R\\), \\(G\\), \\(B\\), and \\(Y\\) according to their dominant red, green, blue, and yellow colors. Treat every connected saturated region of a given label as one principal domain, and treat the narrow gray, blended, or intermediate-color strips as rasterization bands belonging to the interface. Two distinct labels are adjacent in \\(H\\) exactly when their principal domains share a visibly continuous interface of positive length after those thin bands are ignored. A meeting at only one mesh corner does not create an edge. Use the full array and trace each interface globally, including the long diagonal boundary across the upper portion, the curved boundary around the central blue region, and the lower boundaries surrounding the red and yellow regions. The visible arrangement determines which pairs share direct interfaces; proximity across an intervening domain does not create adjacency. No multiplicity is assigned to an edge, even when two regions have several visually separated interface segments. Thus \\(H\\) has one vertex for each of the four labels and one unordered edge for each directly adjacent pair. A spanning tree of \\(H\\) is a connected acyclic subgraph containing all four vertices. Determine the exact positive integer \\(\\tau(H)\\), the number of spanning trees of this domain-adjacency graph. Give only that integer as the answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0325.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "13569dd805ddbd7b9695ab299b1b8ef711781b863644df2f021eb7370378ed5c"
+}

@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0436",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFor each of ten labeled tiles \\(T\\), let \\(G_T\\) be the finite graph formed by its seven marked positions and its internal line segments. Use the common coordinate system in every tile: positions 1 and 2 are the top-left and top-right dots, positions 3 and 4 are the middle-left and middle-right dots, and positions 5, 6, and 7 are the bottom-left, bottom-middle, and bottom-right dots. Every black dot is a vertex, including an isolated dot. Two vertices are adjacent exactly when the supplied plate shows a straight segment joining their dots within the same tile. Cell borders, whitespace, and printed labels are not graph edges. The ten tiles are labeled \\(T_{1246}\\), \\(T_{1257}\\), \\(T_{1247}\\), \\(T_{2456}\\), \\(T_{1356}\\), \\(T_{1346}\\), \\(T_{2356}\\), \\(T_{1357}\\), \\(T_{2346}\\), and \\(T_{2347}\\); blank cells do not contribute a graph. For a tile \\(T\\), define its matching generating polynomial by \\(M_T(z)=\\sum_{k\\ge 0} m_k(T) z^k\\), where \\(m_k(T)\\) is the number of sets of \\(k\\) pairwise vertex-disjoint edges of \\(G_T\\), and the empty matching is counted once. Treat visually repeated patterns in different tiles as distinct summands. The complete supplied plate is indispensable because the edge sets must be read from the particular segments drawn in each labeled cell, including isolated vertices and the extra bottom-right segment in the appropriate tiles. Determine the exact polynomial \\(P(z)=\\sum_T M_T(z)\\), summed over the ten labels listed above. Give one polynomial in \\(z\\) with integer coefficients, with no decimal approximation and no coefficient-list format.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0436.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "05f15160918339276c72ff70c48bf3eba1ef5807269cb61ce6a3160afb220e1d"
+}

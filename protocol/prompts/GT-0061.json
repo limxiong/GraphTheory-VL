@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0061",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIn what follows, take $T$ to be the square cellulation of a torus with ten vertex rows and ten vertex columns, indexed by $\\mathbb Z_{10}^2$. Regard the dashed square in the supplied display as one fundamental domain for $T$: opposite dashed sides are identified without a shift, so the left and right margin pieces of one cell join, and likewise the top and bottom margin pieces join. Index the upper-left black lattice point by $(0,0)$, with the first coordinate increasing to the right and the second coordinate increasing downward, both modulo $10$. An elementary plaquette $(i,j)$ is the cell whose upper-left lattice vertex is $(i,j)$ under this periodic convention.\n\nLet $\\mathcal P$ consist exactly of the elementary plaquettes having a lavender-blue filled interior. A blue region split between opposite margins represents one periodic plaquette, not two. Where a gray band overlaps part of a plaquette, follow the blue fill visible immediately beside the band; the gray overlay does not erase the plaquette.\n\nConstruct a finite simple graph $G$ having one graph vertex for every plaquette in $\\mathcal P$. Join two vertices of $G$ precisely when their corresponding plaquettes share an entire lattice side after the torus identifications. Plaquettes touching only at a black lattice point are not adjacent. Orange segments, black points, thin blue boundary strokes, and the gray curves labeled $\\gamma_1$ and $\\gamma_2$ are not themselves vertices or edges of $G$; they only show the underlying cellulation and its overlays. Line thickness has no combinatorial effect.\n\nFor a finite graph $H$, let $c(H)$ be its number of connected components and let $\\nu(H)=\\dim_{\\mathbb F_2}\\ker \\partial_1=|E(H)|-|V(H)|+c(H)$ be its binary cycle-space dimension. Let $\\tau_{\\mathrm{max}}(H)$ be the number of maximal spanning forests of $H$, meaning one independently chosen spanning tree in every connected component, with an isolated vertex contributing one choice. Determine the exact ordered triple\n\n$$(c(G),\\nu(G),\\tau_{\\mathrm{max}}(G)).$$\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0061.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "bb8348e2056b01e1793dc936f7e52813a161dc9a8bff788289ea4397db926d33"
+}

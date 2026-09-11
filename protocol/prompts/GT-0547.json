@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0547",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nRegard \\(G\\) as the finite simple graph whose vertices are the red spheres and whose edges are the yellow rods joining pairs of spheres. Let \\(K(G)\\) be the nonempty clique complex of \\(G\\): a set of vertices is a simplex of \\(K(G)\\) exactly when every two distinct vertices in that set are joined by an edge of \\(G\\). Use the complete supplied rendering to reconstruct \\(G\\). Count every red sphere exactly once, count every rod exactly once, and treat a rod passing behind another sphere as a single edge. A geometric crossing of rods without a red sphere at the crossing does not create a vertex and does not create an edge subdivision. Likewise, do not regard a polygonal-looking region as a simplex unless its vertices form a clique under the rod rule. The perspective drawing is deliberately non-planar, so apparent proximity is not evidence of adjacency; only an actual rod with endpoints at the relevant spheres may be used. The clique-complex convention is also deliberate: a triangular simplex must be counted whenever its three boundary edges are present, even if no triangular face is explicitly shaded or drawn. Determine the ordered triple \\((f_0,f_1,f_2)\\), where \\(f_i\\) is the number of \\(i\\)-dimensional simplices of \\(K(G)\\). Your answer must be an exact tuple, and no labels for individual spheres need be included in the answer. The reconstruction must account for the central vertical chain, the two long diagonal rods, the rods that pass near the central spheres, and the short connection between the two closely spaced central-left spheres.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0547.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "9e49b7ac0ee9fd4186dc2f039988b7271dcfba625074c7b26ee87235356843a3"
+}

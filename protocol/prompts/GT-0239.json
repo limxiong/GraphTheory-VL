@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0239",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nDeclare \\(G\\) to be the weighted multigraph defined by the six-panel arrangement and the rules below. The panels are read from left to right across the upper row, followed by left to right across the lower row. In panel \\(i\\), let \\(r_i\\) be the number of red arrowheads visibly present in that panel. Count arrowheads only: do not count curve endpoints, crossings, or complete red curves. The orientation of an arrowhead is irrelevant. The blue boundary in every panel has exactly one blue arrowhead, and this blue arrowhead contributes one additional unit to the edge multiplicity associated with that panel. Black curves contribute nothing. Define \\(m_i=1+r_i\\), where the added one records the blue boundary. The graph has vertices \\(v_1,v_2,v_3,v_4,v_5,v_6\\), with cyclic indexing so that \\(v_7=v_1\\). For every \\(i\\), insert exactly \\(m_i\\) distinct parallel undirected edges between \\(v_i\\) and \\(v_{i+1}\\), and insert no other edges. Parallel edges are distinct choices when a spanning tree is counted. A set containing two parallel edges has a cycle of length two, so it cannot be a tree. Use the complete six-panel arrangement to determine all six red-arrowhead counts, then construct \\(G\\) exactly as specified. Determine the positive integer equal to the number of spanning trees of \\(G\\). Your answer must account for every panel and every possible omitted edge bundle, with no additional graph structure inferred from curves that are not prescribed by the construction.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0239.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "ff2262171a1f2b467d77bebd5a5b6f03c56be2b6a2ba33b1df727c192a81e187"
+}

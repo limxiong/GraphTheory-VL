@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0016",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe regard \\(Q\\) as the finite multigraph obtained from the given five-color presentation by the contraction and retention rule below. In that presentation, the color \\(4\\) edges are exactly the red strokes marked by repeated x symbols and labeled \\(e_1,\\ldots,e_7\\), while the color \\(3\\) edges are exactly the black wavy strokes identified by the key at the upper right. Treat each complete decorated stroke as one abstract edge joining the two junctions at its ends. A transverse crossing between interiors of strokes is not a vertex. A bend, tangency, close overlap, or passage beneath another stroke also creates no incidence. Consequently, trace every red or wavy stroke continuously through all such encounters until its actual terminal junctions are reached.\n\nSimultaneously contract each complete red edge \\(e_i\\), together with both of its terminal junctions, to a single vertex named \\(e_i\\), for \\(1\\le i\\le 7\\). The red edges are pairwise disjoint at their endpoints, so these contractions determine the ordered vertex set \\((e_1,e_2,\\ldots,e_7)\\). After contraction, erase every edge of colors \\(0,1,2,4\\), but retain every original color \\(3\\) wavy edge. Transfer each retained endpoint to the contracted vertex containing it. If two retained strokes acquire the same unordered endpoint pair, keep them as distinct parallel edges; do not merge them. If both endpoints of a retained stroke enter the same contracted vertex, keep that edge as a loop. These conventions are part of the definition of \\(Q\\).\n\nChoose an arbitrary orientation independently for each retained non-loop edge and form the signed incidence matrix \\(B\\) over \\(\\mathbb Z\\), with rows in the stated vertex order. A non-loop edge column has \\(-1\\) at its tail, \\(+1\\) at its head, and zero elsewhere. Prescribe the zero column for every loop, regardless of orientation. Define \\(L=BB^{\\mathsf T}\\) and \\(\\operatorname{coker}_{\\mathbb Z}(L)=\\mathbb Z^7/L\\mathbb Z^7\\). It is guaranteed that unique integers \\(r\\ge 0\\) and \\(1<d_1\\mid d_2\\) satisfy\n\\(\\operatorname{coker}_{\\mathbb Z}(L)\\cong \\mathbb Z^r\\oplus\\mathbb Z/d_1\\mathbb Z\\oplus\\mathbb Z/d_2\\mathbb Z\\).\nDetermine the ordered tuple \\((r,d_1,d_2)\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0016.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "48060a9ef9accb82e63cb15b58c86ea3498f0a1afd8b3d357d83c3af9d5fe620"
+}

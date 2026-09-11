@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0543",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThink of \\(H\\) as the finite undirected graph determined by the rule below. The complete supplied visual asset is the entire data set for constructing \\(H\\). Each distinct outlined polygonal glyph containing a blue-filled triangular sector contributes exactly one vertex. Any thin black segment whose endpoints meet the boundaries of two distinct glyphs contributes one undirected edge. Black strokes lying inside a glyph are internal decoration and contribute no edges. A segment is counted once even if it is long, slanted, or visually close to other segments. Every glyph and every qualifying connector in the complete asset must be used, including connectors spanning the large white gaps between compact portions of the drawing. Give each edge an arbitrary orientation, and let \\(M\\) be the resulting vertex-edge incidence matrix over \\(\\mathbb{Q}\\). Define \\(r=\\operatorname{rank}_{\\mathbb{Q}}(M)\\). Define \\(b\\) to be the total number of blue-filled triangular sectors in all glyphs. Determine the ordered pair \\((r,b)\\). The construction is insensitive to the chosen orientations, since changing one edge orientation only changes the sign of one column of \\(M\\). Do not count internal polygon diagonals, polygon corners, empty white regions, or any imagined continuation beyond the visible asset. For the visual count, identify every glyph exactly once, including glyphs joined to the rest of the network by a single long segment. The answer must be an exact ordered pair of positive integers, with \\(r\\) as its first component and \\(b\\) as its second component.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0543.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "ea63e9d03048298cd56e05c8006563d205668ebfcd59597900303d4def3725ba"
+}

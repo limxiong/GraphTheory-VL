@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0524",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nTake \\(S_1,S_2,S_3,S_4\\) to be four finite sets of chamber labels determined by the four vertically ordered rows of the given presentation. Read the rows from top to bottom, with the uppermost row defining \\(S_1\\) and the lowest row defining \\(S_4\\). Each chamber label has the form \\((R|B)\\), where the red digit string specifies a subset \\(R\\) of \\(\\{1,2,3,4\\}\\) and the blue digit string specifies a subset \\(B\\) of \\(\\{1,2,3,4\\}\\). For example, the label \\(34|12\\) means \\((\\{3,4\\}|\\{1,2\\})\\), abbreviated \\((34|12)\\). The two color-coded parts are ordered and must not be merged into a single numeral. The isolated symbol for the empty chamber means \\((\\varnothing|\\varnothing)\\). In every right-hand panel, include a chamber label in \\(S_i\\) exactly when its associated circular vertex is filled orange. An orange edge by itself does not select either endpoint, and a green-filled endpoint is excluded even when it lies on an orange edge. The colored typography of a label records the two subsets and does not determine whether the vertex is selected. Use the matching left-hand wiring panel only to verify the chamber annotation and to distinguish chamber labels from endpoint numerals. If a label is repeated within one row, retain it only once. Let \\(U=S_1\\cup S_2\\cup S_3\\cup S_4\\), choose any ordering \\(U=\\{u_1,\\ldots,u_m\\}\\), and define \\(A\\in\\{0,1\\}^{4\\times m}\\) by \\(A_{ij}=1\\) exactly when \\(u_j\\in S_i\\). Column order can be arbitrary. Determine the exact positive integer \\(\\det(AA^{\\mathsf T})\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0524.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "25943638385f5b2a29e0124f832fdfe3a7c2b159ab17f49f430651f3106c4478"
+}

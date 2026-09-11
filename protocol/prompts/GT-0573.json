@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0573",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nDefine \\(\\Gamma\\) as the labelled multigraph encoded by the given presentation, with parallel edge tokens retained as distinct choices. The six named vertex classes are \\(o,u_1,u_2,u_3,v_1,v_2\\). In the left-hand network, each label \\(h_i^a\\), for \\(a\\in\\{1,2,3\\}\\) and \\(i\\in\\{1,2\\}\\), denotes one edge joining \\(u_a\\) to \\(v_i\\). In the right-hand network, each label \\(h_{ij}^2\\), for \\(i\\in\\{1,2,3\\}\\) and \\(j\\in\\{1,2\\}\\), denotes one further edge joining \\(u_i\\) to \\(v_j\\), so the two separated families of labels contribute independently. For every \\(i\\in\\{1,2,3\\}\\), the labels \\(l_i^{12}\\) and \\(r_i^{12}\\) each denote an edge between \\(u_1\\) and \\(u_2\\), while \\(l_i^{23}\\) and \\(r_i^{23}\\) each denote an edge between \\(u_2\\) and \\(u_3\\). Each visible label \\(g_{ij}\\), with \\(i,j\\in\\{1,2\\}\\), denotes an edge from \\(o\\) to \\(v_i\\); its second subscript distinguishes parallel edge tokens. Each label \\(f_i\\) denotes an edge from \\(o\\) to \\(u_i\\). The solid black connectivity and all displayed labels determine these edge tokens. Dashed guides, the blue curved mark and arrow, orange terminal marks, and unlabelled external continuations are auxiliary and create neither vertices nor edges. A spanning tree of \\(\\Gamma\\) is a connected acyclic spanning sub-multigraph, and choosing different parallel tokens produces different spanning trees. Using the complete labelled structure and the stated endpoint conventions, determine the exact number of spanning trees of \\(\\Gamma\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0573.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "a7fb82fce1b671b46d3d48087ab8cf35dfd60c7d3ead7810ba5e6dd58b1302a6"
+}

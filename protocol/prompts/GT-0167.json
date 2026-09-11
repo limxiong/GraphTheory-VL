@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0167",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThroughout, use \\(p\\in S_{16}\\) to denote the endpoint permutation of a system of sixteen connected strands, with both boundary rows indexed from left to right. Recover \\(p\\) from the complete supplied visual, which is indispensable data for this problem. Label the sixteen top terminals \\(1,2,\\ldots,16\\) from left to right, and independently label the sixteen bottom terminals \\(1,2,\\ldots,16\\) from left to right. For each top label \\(i\\), define \\(p(i)=j\\) when the same continuous strand reaches bottom terminal \\(j\\). At every intersection, follow smooth geometric continuity of a strand through the crossing and never exchange strands merely because two drawn portions meet. A short interruption near an intersection records the local crossing presentation and is not a terminal or a break in connectivity. The gray and black appearances provide drawing information only; they do not change the endpoint rule. The complete visual must therefore be used to identify all sixteen endpoint pairings, including pairings whose strands cross several other strands. After determining \\(p\\), form its cycle-type list by recording every cycle length, including length-one cycles, and sorting the resulting list in nondecreasing order. Also define the inversion number by \\(\\operatorname{inv}(p)=\\#\\{(i,k):1\\leq i<k\\leq16,\\ p(i)>p(k)\\}\\). Define the permutation order \\(\\operatorname{ord}(p)\\) to be the least positive integer \\(m\\) satisfying \\(p^m=\\operatorname{id}\\). Determine the ordered triple whose first component is the sorted cycle-type list, whose second component is \\(\\operatorname{inv}(p)\\), and whose third component is \\(\\operatorname{ord}(p)\\). Give one exact mathematical triple as the final answer, with no endpoint table, prose description, choice label, or approximate numerical value.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0167.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "8009a6273d074d31ad992c5573fe400c038a7237870478687e331974b2aeda95"
+}

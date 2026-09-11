@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0050",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nUse \\(G\\) as the finite simple graph encoded by the colored straight-line network. Every filled circular marker is a vertex independently of whether its fill is green or yellow. Two distinct markers are adjacent exactly when a single drawn straight segment, green or yellow, can be traced with those two markers as its endpoints. Inspect the entire network, including pale thin segments and portions that visually continue across the interior. A transverse intersection at which there is no filled circular marker is only a geometric crossing: it is not a vertex, it does not subdivide either segment, and it creates no adjacency between the crossing segments. A marker must be an endpoint to contribute incidence. Proximity, collinearity, membership in the same triangular region, or apparent continuation along another stroke does not itself create an edge. If the same endpoint pair is visibly supported more than once, retain only one edge, since \\(G\\) is simple. Once all endpoint incidences have been recovered, discard marker colors, stroke colors, lengths, slopes, cyclic orders, and bounded regions. The network therefore supplies only the abstract vertex-edge incidence relation.\n\nLet \\(\\Lambda=L(G)\\) be the line graph of \\(G\\). Each edge of \\(G\\) becomes one vertex of \\(\\Lambda\\), and two distinct vertices of \\(\\Lambda\\) are adjacent exactly when their corresponding edges in \\(G\\) share a filled endpoint marker. Crossings without markers have no role in this construction. A spanning tree is a connected, acyclic spanning subgraph counted by its edge set. Count all such edge sets separately; do not quotient by rotations, reflections, color exchanges, geometric symmetries, or abstract graph automorphisms. Use every marker and every traceable segment in the supplied network, and introduce no inferred segment that is not drawn. Determine the exact spanning-tree number \\(\\tau(\\Lambda)\\). Express the answer as one positive integer in prime-factorized form.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0050.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "843249730e9ec6468846a3df42eaa5151ed262c58a6155280b34216540053c2f"
+}

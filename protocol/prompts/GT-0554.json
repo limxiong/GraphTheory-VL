@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0554",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nSpecify \\(A\\) and \\(B\\) as the simple graphs whose vertices are \\(a_1,\\ldots,a_6\\) and \\(b_1,\\ldots,b_6\\), respectively, in the two colored six-vertex networks. In the displayed construction, read \\(A\\) from the solid navy edges joining labeled vertices inside the upper region \\(S(\\mu)\\), and read \\(B\\) from the solid dark-red edges joining labeled vertices inside the lower region \\(S(\\nu)\\). Retain every such labeled-to-labeled edge exactly once. Do not treat orange boundaries, red dotted arcs, arrow symbols, text, or an apparent geometric crossing as graph edges.\n\nRegard each of the six uninterrupted top-to-bottom strands in the cylindrical connection before the right-hand arrow as a matching edge \\(a_i b_i\\). Add all six matching edges and then contract them simultaneously, identifying \\(a_i\\) with \\(b_i\\) to form a vertex \\(v_i\\). Retain parallel edges created by this contraction, so the resulting object \\(C\\) is a multigraph.\n\nThe black transformation on the left supplies a partition of the indices. Before its arrow, all six labeled leaves meet one center. After its arrow, the leaves with indices \\(1,2,3\\) meet \\(u'\\), while those with indices \\(4,5,6\\) meet \\(u\\). Use\n\\[\nI=\\{v_1,v_2,v_3\\},\\qquad J=\\{v_4,v_5,v_6\\}.\n\\]\nThe separation into the pipes \\(\\rho'\\) and \\(\\rho\\) in the rightmost construction confirms the same division. The green closed curve and its green points are not part of \\(C\\).\n\nFor a spanning tree \\(T\\) of \\(C\\), let \\(c(T)\\) be the number of its edges having one endpoint in \\(I\\) and the other in \\(J\\), with parallel edges counted as distinct choices. Define\n\\[\nF(x)=\\sum_{T\\text{ spanning tree of }C}x^{c(T)}.\n\\]\nUsing only the stated tracing and contraction conventions, determine \\(F(x)\\) in expanded form.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0554.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "db5bf080b110ddb8a4524e3f78d7bfeb2e23f63b76e98f64acdbb7ea7d8cab75"
+}

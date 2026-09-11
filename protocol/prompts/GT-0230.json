@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0230",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nChoose $G$ to be a crossing-incidence graph on six oriented strands. Read the displayed local tangle under the following closed conventions. A vertex of $G$ is one maximal oriented strand, with every short interruption at an ordinary crossing continued along the unique straight local trajectory. When tracing a strand, preserve its direction family through each narrow white crossing gap, and treat collinear pieces immediately opposite one another as parts of the same centerline. Arrowheads are orientation markers only and never create additional vertices. The two members of a parallel family remain distinct even where nearby visible pieces appear almost aligned. Group strands into direction families by parallelism only after completing this tracing. Two vertices are joined by one undirected edge exactly when their corresponding centerlines meet transversely inside the local window. Over-under information is ignored, parallel strands are never adjacent, tangencies do not count, and crossings beyond the boundary must not be inferred. Each pair of centerlines contributes at most one edge, even if a thick stroke creates more than one apparent boundary contact.\n\nUse the right-pointing horizontal strand as a sink vertex $q$. Let $L$ be the combinatorial Laplacian of the graph extracted from the displayed crossing pattern, so $L_{vv}=\\deg(v)$ and, for distinct vertices, $L_{vw}$ is minus the number of edges joining $v$ and $w$. Delete the row and column indexed by $q$ to obtain the reduced Laplacian $\\widetilde L$. Define the finite sandpile group by\n$$K(G)=\\mathbb Z^{5}/\\widetilde L\\mathbb Z^{5}.$$\nNo endpoint that merely leaves the local window is to be identified with any other endpoint, and the chosen sink is removed only after every visible incidence has been recorded. Write the resulting group in invariant-factor form after omitting all trivial factors $\\mathbb Z/1\\mathbb Z$:\n$$K(G)\\cong \\mathbb Z/d_1\\mathbb Z\\oplus\\mathbb Z/d_2\\mathbb Z\\oplus\\mathbb Z/d_3\\mathbb Z,$$\nwhere $1<d_1\\mid d_2\\mid d_3$. Determine the ordered tuple $(d_1,d_2,d_3)$.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0230.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "0185c2d188ea3f8385057417ac21843c7b5b9db73042a8eefba1fdff6d5c0c33"
+}

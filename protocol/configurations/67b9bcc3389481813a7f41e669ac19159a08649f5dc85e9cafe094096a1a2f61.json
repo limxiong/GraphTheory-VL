@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "gpt": {
+      "experiment_id": "gpt-hard-original-independent-4roll-128k",
+      "condition": "original",
+      "image_transmitted": true,
+      "provider": "gpt",
+      "model": "gpt-5.6-luna",
+      "base_url": "https://api.openlux.ai/v1",
+      "max_tokens": 128000,
+      "request_protocol": "openai_responses",
+      "stream": false,
+      "reasoning_effort": "high",
+      "rolls": 4,
+      "seed": 20260823,
+      "sampling": "provider_default",
+      "prompt_template_version": "graph_original_independent_v1",
+      "image_preprocessing": "original_bytes",
+      "concurrency": 4
+    }
+  },
+  "configuration_id": "67b9bcc3389481813a7f41e669ac19159a08649f5dc85e9cafe094096a1a2f61",
+  "prepared_at_utc": "2026-09-10T16:15:00.862429+00:00",
+  "provenance": {
+    "source_locator": "evaluation/p1_challenge62_completion/endpoint_recovery_batches/openlux_smoke/manifest.json",
+    "source_line": null,
+    "original_file_sha256": "c11fd0aba58c03809a7b84d470d1f7b9dcddbed467a16bff3cd746b7edaea0db"
+  }
+}

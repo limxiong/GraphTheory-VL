@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0382",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nDeclare \\(G\\) to be the connected plane multigraph formed by the seven marked points and all curve segments in the supplied configuration. Use the complete drawing to label the five marked points on the large circular boundary, in clockwise order starting at the upper-left point, by \\(a,b,c,d,e\\). Label the central marked point by \\(f\\), and label the marked point lying on the gray disk by \\(g\\). Every maximal visible curve segment whose endpoints are marked points is an edge. The large circular boundary is subdivided into edges wherever it meets a marked point. The gray disk itself is not part of the graph, and its boundary is not an edge. If two distinct visible curves have the same pair of endpoints, they are counted as parallel edges; in particular, visual proximity does not identify such curves. Treat the curves as the given plane embedding, with no unmarked crossings or hidden vertices.\n\nFrom this embedded multigraph, determine one ordered triple. Its first component is the rank of the graph homology group \\(H_1(G;Q)\\), equivalently the cycle rank of the abstract multigraph. Its second component is the total number of faces of the specified embedding on the sphere, including the face outside the large circular boundary. Its third component is the number of spanning trees of the abstract multigraph, with parallel edges distinguished. The requested answer must therefore combine a homological invariant, a planar-topological invariant, and a matrix-tree invariant. Do not count the gray region as a vertex or as a face boundary independent of the curves, and do not replace the two arcs incident with \\(g\\) by a single edge. Report the three positive integers in the order just stated.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0382.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "78fd6ba793a9e36e7f18ee4e50530dc85798522e23dc4bdd2279d6a782eb4795"
+}

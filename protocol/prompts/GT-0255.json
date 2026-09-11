@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0255",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIntroduce \\(G\\) as the simple graph with labeled vertices \\(A, B, C, D, E,\\) and \\(F\\), and let \\(M\\) be its graphic matroid. The supplied rendering is the complete combinatorial specification of \\(G\\): each black segment joining two labeled points is an edge, a dashed portion continues an occluded black segment, the translucent gray and cyan surfaces contribute no edges, and a visual crossing without a labeled vertex does not create a new vertex. Read the rendering carefully and recover its full edge topology. Order the edges lexicographically by their unordered endpoint pairs using \\(A < B < C < D < E < F\\). For a spanning tree \\(T\\) of \\(G\\) and an edge \\(e\\) in \\(T\\), delete \\(e\\) from \\(T\\) to obtain its fundamental cut. Call \\(e\\) internally active when \\(e\\) is the lexicographically smallest edge in that cut. If \\(i(T)\\) denotes the number of internally active edges of \\(T\\), define the internal-activity polynomial by \\(P_G(x) = \\sum_T x^{i(T)}\\), where the sum is over all spanning trees of the graph recovered from the rendering. Determine \\(P_G(x)\\) exactly, with integer coefficients and powers written in descending order. Your solution must explain how the hidden dashed continuations affect the edge set, identify the resulting graph structurally, and justify the polynomial through a matroid or graph-theoretic computation. Do not infer extra edges from the geometric placement of segments, and do not discard an edge merely because part of it lies behind one of the displayed surfaces. The answer is one polynomial, not a list of values or a choice among alternatives.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0255.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "63a2b45b371aea3b014d3fa5b0ec27f142e45955482557ca5d64b2780ab81c92"
+}

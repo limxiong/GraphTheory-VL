@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0526",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFix \\(G\\) as the finite simple graph defined by the incidence condition below. Use the complete supplied rendering as indispensable data for reconstructing \\(G\\). Treat each genuine black junction of the central network as one graph vertex, including a junction where several traces meet. Treat each continuous black trace between consecutive genuine junctions as one graph edge. A line that continues through several collinear pieces represents one connected trace, and a crossing caused by the projection of separate sheets does not create a vertex. The green polygonal sheets serve to display the cells and their incidences; their colors, apparent depths, printed numerals, and visible truncation corners carry no weights or extra graph structure. The rendering is complete: it contains every vertex and every edge required by the stated incidence rule, with no concealed cells or duplicated traces. After the reconstruction, discard the drawing, its embedding, and all geometric lengths, and keep only the resulting abstract unweighted graph. In particular, count each junction once even if several green sheets touch there, and count each edge once even if a portion is visually overlapped. A spanning tree of \\(G\\) is a subgraph containing every vertex, connected, and free of cycles. Determine the exact number of spanning trees of \\(G\\). Your answer must be one positive integer, obtained from the graph encoded by the visible junction-and-trace incidence pattern.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0526.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "fc69ba0fd65766f48da22a13057a4302e659612ef7276654109b3fb37df4336f"
+}

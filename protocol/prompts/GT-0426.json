@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0426",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nChoose T to be the rooted inclusion tree obtained from the nested semicircular intervals encoded by the composite drawing. Use the following closed-world reading convention. In the left panel, the horizontal baseline is marked at every integer from \\(-3\\) through \\(12\\). Each distinct semicircular boundary whose two endpoints lie on marked baseline positions contributes one interval \\([a,b]\\), including thin colored boundaries that share an endpoint with another boundary. Do not count the baseline itself, a filled region twice, or any boundary that is not semicircular. The inclusion relation is ordinary containment of closed intervals. The extracted family is laminar, so for every interval \\(I\\), the children of \\(I\\) are the maximal proper intervals in the family that are contained in \\(I\\). The widest interval is the root of \\(T\\), and the edges of \\(T\\) join every interval to its parent. The circular network in the right panel supplies an integer \\(q\\): count the marked points on the circumference at which colored segments terminate, while ignoring the circumference and any unmarked interior junction where colors meet. For this problem, define the independence polynomial of \\(T\\) by \\(P_T(z)=\\sum z^k\\), where the sum ranges over all independent vertex sets of \\(T\\) and \\(k\\) is the size of the set. The required output is the ordered triple \\((P_T(z),q,P_T(q))\\). Thus, the polynomial must be obtained from the complete interval nesting visible on the left, while \\(q\\) must be obtained independently from the marked circular network on the right. Give the triple in expanded polynomial form with ascending powers of \\(z\\), followed by the two exact integer components.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0426.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "3075a5aac574c84d4a58b6425e0f563e0a059788e24eebd0f1cfbafc9a951f96"
+}

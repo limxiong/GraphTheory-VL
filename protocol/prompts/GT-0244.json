@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0244",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe take \\(G=(V,E)\\) to be the finite labeled graph whose vertices are the circles in the given presentation, with each vertex carrying the five-character word printed beside it. Every vertex is visibly either filled or unfilled. Define \\(D\\) to be the set of edges represented by maximal blue dashed connections. A connection belongs to \\(D\\) precisely when its entire visible segment has the blue dashed style; thin black connections and thick black connections do not belong to \\(D\\). Geometric crossings away from a common circle do not create vertices, and a dashed connection is counted once even when it meets or crosses other drawn connections. For every edge in \\(D\\), inspect its endpoints and retain the label at the unfilled endpoint. Let \\(W_D\\) be the resulting collection of five-character words, with repetitions retained if the same word were to occur more than once. The first character is part of the word, so a leading zero must be preserved. For \\(w=w_1w_2w_3w_4w_5\\), define the inversion number by \\(\\operatorname{inv}(w)=\\left|\\{(i,j):1\\le i<j\\le 5\\text{ and }w_i>w_j\\}\\right|\\), using the digit order \\(0<1<2<3<4<5\\). Let \\(L\\) be the lexicographically least element of \\(W_D\\) under that same digit order. Recover the dashed edges, endpoint fillings, and endpoint labels from the complete given presentation, then determine the ordered triple \\((m,L,s)\\), where \\(m=|D|\\) and \\(s=\\sum_{w\\in W_D}\\operatorname{inv}(w)\\). The requested result is a single exact tuple; treat \\(L\\) as a word, not as an ordinary integer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0244.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "ca7567f1a0483a8432fd6d99426fe052f44952a16e177fea1c6fabf04387ac5f"
+}

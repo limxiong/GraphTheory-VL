@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0374",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nTreat $D=[0,2]\\times[3/200,3/50]$ as partitioned into five continuous phase strata denoted by $B,K,R,Y,$ and $W$. The supplied parameter plot is the sole evidence for determining the global incidence pattern of these strata. The symbols $B,K,R,$ and $Y$ correspond, respectively, to blue filled dots, black asterisks, red filled dots, and yellow open circles. The symbol $W$ denotes the connected unmarked white phase visible between the colored marker envelopes. Treat every regular marker cloud as a sampling of a continuous two-dimensional stratum, so the small spaces between adjacent markers within one cloud do not create additional white components. Interfaces must be inferred by continuous interpolation of the visible outer envelopes of the marker clouds.\n\nConstruct a finite undirected graph $G$ with vertex set $\\{B,K,R,Y,W\\}$. Join two distinct vertices exactly when the closures of their corresponding strata share a curve segment of positive Euclidean length inside the interior of $D$. Contact at only one limiting endpoint creates no edge. Two strata separated by a white corridor create no edge even if their sampled markers appear close near the end of that corridor. Contact with the outer rectangular boundary also creates no edge. These rules require inspection of the lower blue region, the central black band, the upper red region, the yellow cap, and the full intervening white phase.\n\nLet $L(G)$ be the integer graph Laplacian, with diagonal entries equal to vertex degrees and off-diagonal entries equal to $-1$ for adjacent vertices and $0$ otherwise. Delete the row and column indexed by $W$ to obtain the reduced Laplacian $\\widetilde L_W$, and define\n$$\nK(G)=\\mathbb Z^4/\\widetilde L_W\\mathbb Z^4.\n$$\nDetermine the isomorphism class of this critical group in canonical invariant-factor form, omitting every trivial factor. The answer must be one finite abelian group.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0374.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "62a73a41bf2d165569769aeae513067b89485a3354ccfa9e3de0dc83f87d9c5f"
+}

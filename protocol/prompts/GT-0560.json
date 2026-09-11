@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0560",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIn what follows, take \\(M\\) to be the signed weighted adjacency matrix over \\(\\mathbb{Z}[x,y]\\) determined by the complete six-vertex directed presentation supplied with this problem. The vertices are ordered as \\(1,2,3,4,5,6\\), and every arrow is read from its tail to the endpoint marked by its arrowhead. The blue dashed arrows contribute with a positive sign, while the red solid arrows contribute with a negative sign. If an arrow from \\(u\\) to \\(v\\) is labelled \\((r,s)\\), its contribution to \\(M_{uv}\\) is \\(x^r y^s\\) with the prescribed sign. Contributions from arrows having the same ordered endpoints are added in the same matrix entry. All loops, the two curved arrows issuing from vertex \\(4\\), and the long curved arrow involving vertex \\(6\\) are part of the presentation and must be included exactly according to their displayed directions, styles, and ordered-pair labels. No path obtained by concatenating arrows is an additional matrix entry. Rows index tails and columns index heads in the stated vertex order. Introduce a commuting indeterminate \\(z\\) and define the characteristic-type polynomial \\(P(x,y,z)=\\det(I_6-zM)\\). Determine \\(P\\) as one fully expanded polynomial in \\(\\mathbb{Z}[x,y,z]\\), with all like monomials combined and integer coefficients shown explicitly. The requested answer is the polynomial itself. Preserve the ordered pairs as exponents, use \\(x^0 y^0=1\\) for a label containing zeros, and do not substitute numerical values for \\(x\\), \\(y\\), or \\(z\\). The complete displayed directed presentation is indispensable for identifying every signed entry before the determinant is simplified.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0560.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "3b58be351b4a7f6af31236ce368c30c0e98fb86ba4ca027b9e9bab2f6877c1b0"
+}

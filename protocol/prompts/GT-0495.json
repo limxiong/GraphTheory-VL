@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0495",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThe construction uses \\(a=(a_L,a_M,a_R)\\) as the ordered triple of augmented cycle ranks of the three paired core graphs, read from left to right. The supplied composite consists of three triangulated surface renderings in its upper row and three graph drawings in its lower row. Pair each upper surface with the graph directly below it, preserving the left-to-right order. The upper row fixes the intended surface-to-core correspondence, but its mesh edges are not themselves edges of the core graphs. For each lower graph, regard every gray circle as one vertex and every colored or solid black curve joining two circles as one edge. A crossing of curves without a gray circle is not a vertex, and no edge is created merely because two curves cross. In the left graph, use all of its red and blue curves, including the small branches ending at gray circles. In the middle graph, use only the solid black lattice inside the displayed finite window. The dashed black pieces at the boundary are continuation marks for a larger pattern and must not be counted as edges or vertices of the finite graph. In the right graph, use the eight displayed gray circles and all blue segments; the dense crossings are ordinary nonvertex crossings. For a finite graph \\(X\\), let \\(c(X)\\) denote its number of connected components and define its augmented cycle rank by \\(a_X=1+\\dim_{\\mathbb F_2}H_1(X;\\mathbb F_2)\\). You may use the graph identity \\(\\dim H_1(X;\\mathbb F_2)=|E(X)|-|V(X)|+c(X)\\). Determine the exact ordered triple \\(a\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0495.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "092228dc441fb952d8d19a40373697ef037224621730a5e6e6e9200eb6506ad5"
+}

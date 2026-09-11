@@ -1,0 +1,11 @@
+{
+  "dataset": "GraphTheory-VL",
+  "version": "v1.0",
+  "creator": "GraphTheory-VL research team",
+  "authorship": "The 62 retained question texts and their accompanying diagrams were created by the team.",
+  "data_license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "source_pool_count": 623,
+  "released_questions": 62,
+  "scope": "The core package contains only the current Challenge62 questions, including Hard20. Historical source-pool workbooks are not part of this download."
+}

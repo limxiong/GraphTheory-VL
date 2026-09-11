@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0277",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nUnderstand \\(G\\) to be the directed graph whose six vertices are the labeled boxes Identification, Adaptation, Estimation, Shared Controller, Human Operator, and System. The given presentation is the indispensable data for determining the directed arcs. Read every arrowhead and trace its connected wire from the boundary of its originating box to the boundary of each receiving box. A wire that branches contributes one arc for every distinct box it enters. A solid black dot is a genuine junction, so all wire segments meeting there belong to the same connected signal route; however, a dot, signal label, arrowhead, or external terminal is not itself a vertex. The external input labeled \\(J^{(g)}\\) is not part of the graph. Any other wire that leaves the System box and returns to one or more labeled boxes is treated as originating at System. If multiple branches have the same ordered pair of box endpoints, retain only one arc, and do not infer an arc from a geometric crossing without a junction. Write the vertices in the fixed order \\((I,A,E,C,H,S)\\), corresponding respectively to Identification, Adaptation, Estimation, Shared Controller, Human Operator, and System. Let \\(M\\) be the zero-one adjacency matrix in this order, with \\(M_{(v,w)}=1\\) exactly when \\(v\\) to \\(w\\) is an arc of \\(G\\). After forgetting orientations while preserving one undirected edge for each directed arc, let \\(\\mu\\) be the cyclomatic number of the resulting undirected multigraph, so \\(\\mu=|E(G)|-|V(G)|+\\kappa\\), where \\(\\kappa\\) is its number of connected components. Let \\(N\\) count directed simple cycles, identifying only cyclic rotations and treating opposite orientations as different cycles. Finally, define \\(p(t)=\\det(tI-M)\\). Determine the ordered triple \\((\\mu,N,p(t))\\) exactly.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0277.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "c73d5a48734dc61f7de14829e7ecf18f3e018278ae45791f57df065fea50fe67"
+}

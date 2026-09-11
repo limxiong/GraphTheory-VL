@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0291",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nAdopt \\(G\\) as the finite simple graph constructed from the thirteen bars in the supplied chart. The complete supplied bar chart is the sole numerical data source for this construction. Its vertical axis is uniformly scaled, with horizontal grid lines labeled 0, 20, 40, 60, and 80 percent. Index the bars from left to right, and define \\(h_i\\) to be the nearest integer obtained by linearly interpolating the height of the top of the \\(i\\)-th bar between these grid lines. The bar tops are sufficiently separated from half-integers that this rule gives a unique value for every \\(i\\). Ignore the text labels below the bars, but use every bar, including the two shortest bars at the right end.\n\nFor each \\(i\\), form a complete graph \\(K_{h_i}\\) on \\(h_i\\) vertices, and let \\(G\\) be the disjoint union of all thirteen resulting complete graphs. Let \\(A(G)\\) denote the adjacency matrix of \\(G\\), and use the monic convention \\(\\chi_G(\\lambda)=\\det(\\lambda I-A(G))\\) for its adjacency characteristic polynomial. Determine \\(\\chi_G(\\lambda)\\) exactly in factored form. The response must be one polynomial in the variable \\(\\lambda\\), with integer coefficients understood through its displayed factorization. Do not expand the polynomial, and do not replace repeated factors by an ellipsis. The graph construction, the left-to-right indexing, the interpolation rule, and the characteristic-polynomial convention are all part of the problem definition, so no external information about the dataset names or their source is needed.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0291.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "8926693b08b7d0eda2c1a125e49e8671f18af7c82455dca85de0a2fb0129bf84"
+}

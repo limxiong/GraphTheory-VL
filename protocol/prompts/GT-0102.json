@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0102",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThe setup takes $T$ to be the finite reduced topological graph extracted from the given black-stroke presentation under the following closed rules. The straight horizontal and vertical coordinate axes, together with every tick and numerical coordinate label, are annotations and are deleted. In particular, the long near-vertical stroke that passes through the horizontal coordinate axis remains, while the horizontal axis itself does not. Treat the geometric union of every remaining oblique, curved, short vertical, and near-vertical stroke as a one-dimensional network. Every free endpoint is a vertex. Every point at which retained strokes meet, branch, terminate on another retained stroke, or cross is also a vertex, even if no dot marks it. There is no overpass convention. If several strokes visibly share a segment before separating, their geometric union contains one copy of that segment. Any visible gap is genuine, and no stroke is extended across it. Suppress each degree-$2$ vertex by replacing its two incident edge pieces with a single edge; consequently, ordinary bends and the intersection with the deleted horizontal axis create no vertices of $T$. Keep every short connector between distinct branching points, including connectors whose endpoints are close together. Then form the line graph $L(T)$. Its vertices are the edges of $T$, and two distinct vertices of $L(T)$ are adjacent exactly when their corresponding edges in $T$ share an endpoint. A spanning tree of $L(T)$ is a subset of its edges that connects all of its vertices and contains no cycle. Determine the exact number of spanning trees of $L(T)$ and give the answer in prime-power form.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0102.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "6738c5d3deb2b81c4e447078bc8cbc8accc4a01b7fc849cf007549acd99ba2d7"
+}

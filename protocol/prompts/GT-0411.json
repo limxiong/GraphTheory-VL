@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0411",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nDesignate \\(G\\) and \\(H\\) as the finite simple graphs encoded by the two drawings, with \\(G\\) listed first and \\(H\\) listed second. Every dark circular mark is one vertex, and every straight segment joining two marked vertices is one edge. A crossing without a marked vertex does not create a new vertex, so the vertical segment in the lower drawing passes through the horizontal segment without subdivision. The placement, thickness, and apparent length of a segment have no further meaning, and neither graph has loops or multiple edges.\n\nRead all adjacency relations from the complete drawings. For a connected finite graph \\(X\\), let \\(L_X=D_X-A_X\\) be its integer Laplacian, where \\(D_X\\) is the diagonal degree matrix and \\(A_X\\) is the adjacency matrix. Delete one row and the corresponding column from \\(L_X\\), obtaining a reduced Laplacian \\(\\widetilde L_X\\), and define the critical group by\n\\[\nK(X)=\\mathbb Z^{|V(X)|-1}/\\widetilde L_X\\mathbb Z^{|V(X)|-1}.\n\\]\nThe isomorphism type does not depend on the deleted vertex. Identify the structural graph forms visible in the upper and lower drawings, then determine the Smith normal form data of both reduced Laplacians. Give the ordered pair \\((K(G),K(H))\\), using the upper graph first. Each group must be expressed in invariant-factor form as a direct sum of cyclic groups \\(\\mathbb Z/d\\mathbb Z\\), with every displayed modulus greater than \\(1\\) and each modulus dividing the next one. Omit trivial cyclic factors and preserve the order of the two graphs in the final answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0411.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "893838f6375af236d9c566dbd4060adb48ac429097fe304dd1e73ecaa8522c29"
+}

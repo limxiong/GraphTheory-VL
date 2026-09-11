@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0503",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nConsider \\(n\\ge 7\\), and let \\(\\Delta_n\\) be the abstract simplicial complex whose \\(2n\\) vertices are the symbols \\(m_i=-\\alpha_i\\) and \\(p_i=\\alpha_i\\), for \\(1\\le i\\le n\\), attached to the correspondingly labeled polygonal diagonals. The two displayed polygon panels provide the complete endpoint data for these vertices. Identify the two gray boundary polygons vertex-for-vertex by matching their top horizontal edges and then proceeding clockwise around the boundaries. Superimpose the purple and magenta diagonals using this identification. A common boundary endpoint is allowed, but an intersection in the relative interiors of two straight diagonals is forbidden. A subset of the \\(2n\\) symbols is a face of \\(\\Delta_n\\) precisely when its corresponding diagonals are pairwise noncrossing under this rule.\n\nThe dashed portions indicate the continuation of the indexed alternating endpoint pattern between the explicitly displayed low-index and high-index diagonals. Thus all intermediate members are to be expanded using the same pattern visible from \\(\\alpha_1,\\alpha_2,\\alpha_3\\) and \\(\\alpha_{n-2},\\alpha_{n-1},\\alpha_n\\), and likewise for their negative counterparts. The crossing relations must be read from the complete endpoint geometry in both panels after superposition; they are not to be inferred merely from the signs or subscripts of the labels.\n\nInclude the empty face. Define the face enumerator and the maximum face size by\n\\[\nF_{\\Delta_n}(x)=\\sum_{\\sigma\\in\\Delta_n}x^{|\\sigma|},\\qquad d=\\max_{\\sigma\\in\\Delta_n}|\\sigma|.\n\\]\nDefine the \\(h\\)-polynomial by the standard transform\n\\[\nh_{\\Delta_n}(t)=(1-t)^dF_{\\Delta_n}\\left(\\frac{t}{1-t}\\right).\n\\]\nUsing only the displayed crossing geometry and these definitions, determine \\(h_{\\Delta_n}(t)\\) in closed form as a polynomial valid for every \\(n\\ge 7\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0503.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "eb0eb367a60b625de8bc6cfb15f84fd5dab42b4d4be3d1074f3e68545eb25470"
+}

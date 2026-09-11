@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0372",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIntroduce \\(T\\) as the oriented two-chain formed by the three green sheets in the upper pair of panels, and let \\(B\\) be the oriented chain represented by the two nearby green copies in the lower pair of panels. Each sheet carries the orientation indicated by its interior circular arrow, and each edge inherits the corresponding boundary orientation shown by the small directed arrows. The supplied four-panel drawing is indispensable for distinguishing geometric traces from algebraic boundary traces: its upper-left panel displays the three-sheet assembly, its upper-right panel displays the boundary graph after applying the boundary operator, its lower-left panel displays two nearby copies, and its lower-right panel displays their combined boundary with one dotted coincident seam. At the central singular point of the upper boundary graph, count only distinct noncanceling solid one-dimensional strata incident to that point. For the lower chain, combine coincident boundary traces with their displayed orientations before counting surviving solid traces. A coincident pair with opposite induced orientations contributes coefficient zero, even if its geometric location remains marked by a dotted trace. Count each geometrically distinct dotted zero-coefficient seam once, and do not count circular orientation arrows as boundary strata. Define \\(a\\) to be the upper singular valence, \\(b\\) to be the number of surviving solid boundary copies for the lower chain, and \\(c\\) to be the number of dotted seam traces whose algebraic coefficient is zero. Determine the ordered integer triple \\((a,b,c)\\) using the order just defined.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0372.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "981f91e252795e6932538e4b5edd70ce08e414f668f89730fedec58027c92058"
+}

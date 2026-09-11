@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0049",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIntroduce \\(N\\ge 10\\) as an integer, and let \\(X_N\\) be the pulsed continuous-time simple exclusion chain defined below. The elevated finite network in the given presentation carries a standard graph-theoretic symbol. Interpret that symbol literally, and denote the resulting abstract graph by \\(G_N\\). The symbol fixes its complete vertex and edge sets; the placement, the number of visible circles, and the selection of visible edge strokes are only schematic. Let \\(r\\) be the number of solid black circular vertex markers attached to the elevated network. Count only filled circular markers with no white interior. Exclude the curved-arrow head, printed characters, hollow circular markers, line intersections, and every marker belonging solely to the gray lattice. The gray substrate labeled \\(\\mathbb Z^d\\), together with the point marked \\(0\\), specifies only an attachment location. Every substrate edge is frozen and produces no transition.\n\nA state of \\(X_N\\) is an \\(r\\)-element subset of \\(V(G_N)\\). Every unordered edge of \\(G_N\\) has its own independent Poisson clock. Let \\(\\rho_N\\) be the exact scalar printed after the word rate, and let \\(I_k\\) be the exact half-open interval written after the word on. For each \\(k\\in\\mathbb Z\\), every edge clock runs at rate \\(\\rho_N\\) during \\(I_k\\) and at rate zero outside the union of these intervals. At a ring, the two endpoint occupation indicators are exchanged; if they agree, the state is unchanged. The curved arrow means that this pulsed prescription repeats from one value of \\(k\\) to the next. It gives no edge orientation and no additional transition. Thus \\(\\rho_N\\) is a per-edge rate and is not divided among the edges.\n\nLet \\(T_N\\) be the separation between consecutive left endpoints of the specified active intervals. Observe the chain immediately before two consecutive pulse starts, and let \\(P_N\\) be the resulting one-period transition matrix on all allowed particle states. Using \\(\\chi_{P_N}(x)=\\det(xI-P_N)\\), determine the exact characteristic polynomial of \\(P_N\\), with every algebraic multiplicity explicit. Give a single closed product in \\(N\\) and \\(x\\), with no unevaluated spectral or graph-dependent quantities. Use the convention \\(\\binom{N}{-1}=0\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0049.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "69c76156a57923af86ca2fd6329102b687743de030acbb24023612746b41f3e0"
+}

@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0008",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nSet $G_D$ to be the finite simple graph constructed from the given shaded planar cell complex by the incidence rules below. The pink region marked $D$ has a boundary consisting of one solid red polygonal chain together with one connected dotted red arc. A black rosette at a point means the local star formed by the black cell sides and thin black sector separators issuing from that common point. Call a point of the solid red chain a boundary hub exactly when it is the center of a rosette with six distinct radial arms. Any arm coincident with a solid red stroke is still counted, even if the red overprint hides its initial black portion. Line thickness does not create extra arms. An ordinary change of direction of the red chain or a transverse meeting with the interior of a black side does not count as a hub. The two meeting points of the solid and dotted red parts are explicitly excluded.\n\nStarting at the upper solid-dotted meeting point, traverse the solid chain to the lower meeting point and denote the encountered boundary hubs, in order, by $h_1,\\ldots,h_n$. Use only rosette centers present in the bounded planar data, and do not infer an additional center beyond the lower cutoff. Create one rim vertex $r_i$ for each $h_i$. Join $r_i$ to $r_{i+1}$ for every $1\\leq i<n$. Because the dotted red arc is connected and joins the two ends of the solid chain, let it contribute exactly one closing edge $r_n r_1$ and no additional vertex.\n\nAdd a central vertex $d$. Join $d$ to $r_i$ exactly when at least one of the six open angular sectors determined by the rosette at $h_i$ has an intersection of positive two-dimensional area with the interior of the pink region $D$. A point contact or a line-segment contact is insufficient. Ignore the red letter, color transparency, and line widths, and suppress loops and parallel edges.\n\nLet $\\mathcal L(G_D)$ be the integer combinatorial Laplacian. Form the reduced Laplacian $M$ by deleting the row and column indexed by $d$, so that $K(G_D)=\\mathbb Z^n/M\\mathbb Z^n$. Write the Smith normal form of $M$ as $\\operatorname{diag}(s_1,\\ldots,s_n)$ with positive entries satisfying $s_i\\mid s_{i+1}$. Determine the ordered tuple of all invariant factors $s_i>1$, omitting every unit factor. All incidence decisions must follow the stated arm count, red line style, and positive-area pink incidence.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0008.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "bad3d581f5c2062f6b2a71fd3b160e60ff631c7091c4751a92e1d259275c121f"
+}

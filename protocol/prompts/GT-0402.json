@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0402",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nTreat \\(G\\) as the finite undirected graph encoded by the six labelled points \\(1, 2, 3, 4, 5,\\) and \\(6\\). The supplied complete drawing is part of the data: every visible connection whose two endpoints are labelled contributes one edge, while an unlabelled crossing of drawn lines is not a vertex and does not split an edge. Thus, a line passing through an unlabelled crossing remains one edge between its labelled endpoints. The arrowheads are decorations for the directed presentation and are to be forgotten when forming \\(G\\). Do not add an edge merely because two lines cross, and do not identify a crossing with any of the six labelled vertices. Let \\(L_G\\) be the ordinary combinatorial Laplacian of this undirected graph, with diagonal entries equal to vertex degrees and off-diagonal entries equal to minus the adjacency entries. Let \\(\\tau(G)\\) denote the number of spanning trees of \\(G\\). Let \\(\\operatorname{Spec}_{+}(L_G)\\) denote the multiset of all positive eigenvalues of \\(L_G\\), listed in nondecreasing order with multiplicity. Using the complete visual connectivity, determine the ordered pair consisting first of \\(\\tau(G)\\) and second of \\(\\operatorname{Spec}_{+}(L_G)\\). The answer must be exact: give the integer spanning-tree count together with the full ordered list of positive Laplacian eigenvalues. No numerical approximation, directed mutation, or choice of convention beyond the rules stated here is required.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0402.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "0876f68070c309640574438863828f97ee0fe474ff27121891a578549e4c1c31"
+}

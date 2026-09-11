@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0514",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe take \\(K\\) to be the finite 2-dimensional cell complex obtained from one central polygonal 2-cell and a cyclic fan of congruent triangular 2-cells attached to its sides. Use the complete supplied rendering as indispensable combinatorial evidence: count every repeated sector around the central cell, including sectors that perspective may make appear narrower, and do not count a change of shading as an additional cell. The rendering shows one central polygon, one sector for each side of that polygon, and a cyclic outer arrangement with no extra subdivision vertices. Let \\(n\\) denote the number of sectors found in this way. For each index \\(i\\) modulo \\(n\\), call the central vertices \\(c_i\\) and \\(c_{i+1}\\), call the corresponding outer apex \\(o_i\\), and let the \\(i\\)-th triangular cell have boundary \\(c_i c_{i+1} o_i\\). Thus the central polygon is a single 2-cell, while each sector contributes one new vertex and two new edges. Apparent overlaps in the spatial rendering are projection effects and do not create additional abstract cells. Let \\(G\\) be the full automorphism group of this abstract cell complex, where automorphisms preserve cell dimension, incidence, and the distinguished central 2-cell. Let \\(G\\) act on the set of sectors. Define the cycle index by \\(Z_G(a_1,a_2,\\ldots)=(1/|G|)\\) times the sum over \\(g\\in G\\) of the monomial whose factor \\(a_j\\) records each \\(j\\)-cycle of \\(g\\) on the sector set. Determine the ordered triple consisting of the order \\(|G|\\), the cycle index \\(Z_G\\) for this sector action, and the Euler characteristic \\(\\chi(K)\\). Give the result in exact symbolic form, with the cycle-index variables left unevaluated.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0514.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "0d52691c0fbbb1a38c23ce5e0852b401b34e616bfcc236ccc733f9335cdd382e"
+}

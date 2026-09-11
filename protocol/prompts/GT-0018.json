@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0018",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nHere, define \\(G\\) as a finite undirected multigraph, and let \\(L_G\\) denote its integral combinatorial Laplacian. Construct \\(G\\) from the given directed presentation by the following closed-world extraction rule. Every named hand-drawn oval is one vertex; a small open or filled marker inside an oval is only decoration and is not another vertex. Retain an inked arrow exactly when its tail is visibly attached to one named oval, its arrowhead is visibly attached to a second named oval, and that arrow stroke is disjoint from the outer rectangular frame. In particular, discard every long incoming or outgoing stroke that uses the outer frame as its other endpoint, even when its arrowhead lies near a named oval. Replace each retained arrow by one undirected edge. Preserve parallel edges if they occur, but do not create an edge from proximity, alignment, a crossing without a junction, matching subscripts, or a curve that merely passes near an oval. For calibration, the short curve from \\(C_1\\) to \\(G_0\\) is retained, while the long right-frame curve whose arrowhead is at \\(C_2\\) is discarded.\n\nUse every named oval in the complete presentation. Ignore all arrow annotations such as \\(1\\), \\(2\\), \\(3\\), and \\(123\\), ignore arrow direction after deciding that an arrow is retained, and ignore whether the marker inside an oval is open or filled. The outer frame and the unlabeled regions it bounds are not vertices. These conventions distinguish the short curved arrows joining named ovals from the separate frame-connected curves.\n\nLet \\(A_G\\) be the adjacency matrix with edge multiplicity, let \\(D_G\\) be the diagonal degree matrix, and set \\(L_G=D_G-A_G\\). Degrees are ordinary undirected degrees, with the standard multigraph convention. Regard \\(L_G\\) as a homomorphism from \\(\\mathbb{Z}^{V(G)}\\) to itself. Determine the invariant-factor decomposition of the finitely generated abelian group\n$$\n\\operatorname{coker}_{\\mathbb{Z}}(L_G)=\\mathbb{Z}^{V(G)}/L_G\\mathbb{Z}^{V(G)}.\n$$\nWrite the free part explicitly and omit every trivial cyclic factor \\(\\mathbb{Z}/1\\mathbb{Z}\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0018.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "b4aec67c222d9e69294f09ac187c82c27d2b91e42ddbd7a370b215294ccf5d12"
+}

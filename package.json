@@ -1,0 +1,19 @@
+{
+  "name": "GraphTheory-VL",
+  "version": "v1.0",
+  "package_role": "core_dataset",
+  "prepared_on": "2026-09-11",
+  "released_on": null,
+  "minimum_python": "3.9",
+  "runtime_dependencies": [],
+  "questions": 62,
+  "hard_questions": 20,
+  "scoring_positions": 984,
+  "complete_answers_in_separate_archive": 983,
+  "labels_without_complete_answer": [
+    "claude::text_only::GT-0560::2"
+  ],
+  "data_license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "companion_archive": "GraphTheory-VL-v1.0-responses.zip"
+}

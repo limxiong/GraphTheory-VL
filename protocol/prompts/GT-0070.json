@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0070",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFix $G_1,G_2,G_3$ as connected undirected multigraphs defined by the curve-reading conventions below. Read the three separated drawings in the supplied asset from left to right. In each drawing, every solid black circular outline represents exactly one graph vertex. Its circumference and interior belong only to the vertex glyph, so neither supplies an edge, a loop, or a cycle. Every individual solid black curve whose terminal contacts lie on circular outlines represents exactly one edge. Trace each such curve continuously from one terminal contact to the other. A single bent or enclosing curve is still one edge, two close parallel curves are separate edges, and a curve meeting the same vertex at both ends is a loop. A crossing or tangency between curves creates no vertex unless a solid black circular outline is centered at that location. The dashed red ring near the upper-right vertex of the rightmost drawing is an annotation only and contributes no vertex or edge. Regions, apparent symmetry, and proximity create no additional incidence. Account for every solid black curve exactly once.\n\nFor each $i\\in\\{1,2,3\\}$, label the upper-left, upper-right, lower-left, and lower-right vertices $a_i,b_i,c_i,d_i$, respectively. Choose $b_i$ as a sink. Orient every non-loop edge arbitrarily, let $e_v$ denote the standard basis vector indexed by vertex $v$, and construct an integer incidence matrix $B_i$ by assigning the column $e_u-e_v$ to an oriented edge $u\\to v$. Give each parallel edge its own column, and assign the zero column to every loop. Set $L_i=B_iB_i^{\\mathsf T}$. Delete the row and column indexed by $b_i$ to obtain the reduced matrix $\\widetilde L_i$, and define\n$K_i=\\mathbb Z^3/(\\widetilde L_i\\mathbb Z^3)$.\n\nWrite the Smith normal form of $\\widetilde L_i$ as $\\operatorname{diag}(s_{i,1},s_{i,2},s_{i,3})$, where the entries are positive and $s_{i,1}\\mid s_{i,2}\\mid s_{i,3}$. Define $e_i=s_{i,3}$, equivalently the least positive integer that annihilates every element of $K_i$. Determine the ordered triple $(e_1,e_2,e_3)$. The requested coordinates are group exponents; a determinant gives a group order and may be different.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0070.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "f28a0e2c180c745d2c6f11d1b67685b41f974971b2e2b5653ffaa3b75674cd2e"
+}

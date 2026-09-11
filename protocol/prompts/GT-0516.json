@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0516",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe regard \\(G=(V,E)\\) as the marked-point straight-line graph whose vertices are exactly the small node marks shown in the supplied drawing. The uppermost and lowermost isolated extreme marks are included as vertices. A crossing of two strokes is not a new vertex unless the drawing places a node mark at that crossing, and every visible node mark is counted once even when several strokes meet there. The complete supplied drawing is indispensable data: do not extrapolate the pattern beyond the displayed boundary and do not delete a node merely because it is close to another stroke. Assign height \\(0\\) to the uppermost extreme vertex, height \\(1\\) to the next horizontal stratum of marked vertices, height \\(2\\) to the central horizontal stratum, height \\(3\\) to the next lower horizontal stratum, and height \\(4\\) to the lowermost extreme vertex. The height is determined by the position of the node mark, not by the slope or direction of an incident edge. Define the height-enumerator polynomial of the displayed marked-point graph by \\(F_G(t)=\\sum_{v\\in V}t^{h(v)}\\), where \\(h(v)\\) is the assigned height. Read the strata from the entire drawing, including both far ends and the dense middle region, and determine \\(F_G(t)\\) in canonical ascending powers of \\(t\\). Your response must be exactly the polynomial and must not include a proof, a vertex list, or a decimal approximation.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0516.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "3101c87a8931c46af05a6ec23585f33768c464797d4ac931cf458467333e8fda"
+}

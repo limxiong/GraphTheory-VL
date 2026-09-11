@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0208",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nStart with \\(C\\) as the finite colored cycle formed by the complete outer circular chain of markers in the displayed tessellation. Traverse that entire outer chain clockwise, using every visible marker on the circumference, including solid black markers and thinly outlined white markers. Consecutive outer markers are adjacent in \\(C\\). All points, arcs, spokes, and segments lying strictly inside the outer circumference are excluded from \\(C\\), even when they visually align with an outer marker. Let \\(W\\) and \\(B\\) denote the white and black vertex sets of \\(C\\), respectively.\n\nLet \\(G\\) be the full automorphism group of the abstract cycle \\(C\\) that preserves the two color classes setwise. A permutation belongs to \\(G\\) only when it preserves the complete cyclic color pattern on all outer markers. The inner construction supplies no additional vertices and no extra automorphisms. Do not assume a symmetry from a partial sector; recover the cyclic pattern and every color-preserving rotation or reflection from the complete circumference.\n\nFor a finite \\(G\\)-set \\(X\\), define its cycle index polynomial by\n\\[\nZ_X=\\frac{1}{|G|}\\sum_{g\\in G}\\prod_{j\\geq 1} z_j^{c_j(g;X)},\n\\]\nwhere \\(c_j(g;X)\\) is the number of cycles of length \\(j\\) in the permutation induced by \\(g\\) on \\(X\\). Use variables \\(x_j\\) for the action on \\(W\\) and variables \\(y_j\\) for the action on \\(B\\). Determine the ordered pair \\((Z_W,Z_B)\\) in simplified exact form. Your response must contain the two polynomials in that order, with no numerical approximation and with all multiplicities incorporated into the coefficients.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0208.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "46a74915eecd9254ed51fee954e312e341ec112e512905c122d40aea94faf809"
+}

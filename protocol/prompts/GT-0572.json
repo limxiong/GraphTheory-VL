@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0572",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nRegard \\(\\mathcal A\\) as the colored periodic arrangement consisting of the dark zigzag strokes and the green fan strands in the given presentation. The horizontal calibration uses the five consecutive marked columns labeled \\(\\pm\\mathcal O(-2)\\), \\(\\pm\\mathcal O(-1)\\), \\(\\pm\\mathcal O(0)\\), \\(\\pm\\mathcal O(1)\\), and \\(\\pm\\mathcal O(2)\\), assigned coordinates \\(-2,-1,0,1,2\\), respectively. A sign in one label does not create a second column. The vertical calibration uses the marked levels \\(0\\), \\(1/2\\), \\(1\\), and \\(3/2\\). Treat the coordinate axes, tick marks, and labels as calibration data only. For the period calculation, include every dark stroke and every green strand, including their visible attachment pattern and orientations; use the repeated upper fans across the full horizontal layout. Let \\(p\\) be the smallest positive horizontal translation length, in the calibrated column units, that preserves \\(\\mathcal A\\).\n\nNow let \\(D\\) be the dark graph obtained by retaining only the dark zigzag strokes in the closed strip \\(0\\le y\\le 1\\). Insert vertices at displayed dark junctions and at displayed dark endpoints on the strip boundary. Arrowheads, axes, ticks, and crossings with green strands do not create vertices. Let \\(Q\\) be the quotient of \\(D\\) by horizontal translation through the length \\(p\\). Distinct geometric edge positions remain distinct edge orbits even when their quotient endpoints coincide. Define \\(b=\\operatorname{rank}H_1(Q;\\mathbb Z)\\), and let \\(e\\) be the number of edge orbits of \\(Q\\). The alternating dark junctions in the strip and the repeated green fans both supply necessary information: the former determines the quotient graph, while the latter fixes the full arrangement period. Determine the ordered integer triple \\((p,b,e)\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0572.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "dddd7c0e78d5c87dfd123d3400841efabd9dd5fdb2e7ec331b0b7a8d10cfd456"
+}

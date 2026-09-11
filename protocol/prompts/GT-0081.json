@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0081",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIn this setup, consider \\(G\\) to be a finite connected undirected graph constructed by the centerline rules below. In the supplied planar trace, treat each of the three black vertical strokes and every blue stroke as a one-dimensional centerline arc. Ignore stroke thickness. The blank intervals in a dashed blue stroke are styling and do not create endpoints. Place a vertex at every visible stroke endpoint, every transverse blue-blue crossing, and every blue-black contact. At an ordinary crossing, all four local half-arcs are incident to one vertex, with no overpass convention. The three nontransverse branch meetings on black strokes are also single vertices: the lower meeting on the left black stroke, the upper meeting on the middle black stroke, and the lower meeting on the right black stroke. At each such meeting, attach every arriving blue branch and both local black half-arcs. Ignore a tiny gap when centerlines visibly arrive at the same specified branch meeting. Do not place vertices at smooth bends, and do not suppress or contract degree-two vertices after constructing the graph. Each maximal centerline portion between consecutive vertices is one edge.\n\nKeep all outer tails. Retain each black portion above its highest contact and below its lowest contact, together with every terminal blue arm on either side. A stroke ending at the boundary of the supplied field gives an endpoint, and no continuation beyond that field is inferred. Two strokes that merely approach without touching have no incidence. These conventions apply to the entire supplied trace, including every dashed path and every rightward blue arm.\n\nLet \\(r=\\dim_{\\mathbb Q}H_1(G;\\mathbb Q)\\), and let \\(b\\) be the number of bridge edges of \\(G\\). Let \\(L_G\\) be the combinatorial Laplacian, with vertex degrees on the diagonal and minus the number of joining edges off the diagonal. Delete any one row and the corresponding column to form \\(\\widetilde L_G\\), and define \\(K(G)=\\mathbb Z^{|V(G)|-1}/\\widetilde L_G\\mathbb Z^{|V(G)|-1}\\). Let \\(d\\) be the exponent of this finite abelian group, namely the least positive integer such that \\(dz=0\\) for every \\(z\\in K(G)\\). Determine the exact ordered triple \\((r,b,d)\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0081.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "a3e6954b63ee898b0f86c9b8d7aec1d5b32d60460600a7d0f02f93af4a65359c"
+}

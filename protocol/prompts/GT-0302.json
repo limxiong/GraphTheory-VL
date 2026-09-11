@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0302",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFix \\(G_L\\) and \\(G_R\\) as the plane graphs encoded by the left and right stroke networks, respectively, in the supplied two-panel drawing. The complete drawing is indispensable data: use every visible stroke, including the large outer returns, the elongated central loop, the lower return arcs, and every small lower enclosure. A point where visible strokes meet, touch, or pass through one another is a graph vertex. A smooth bend along a stroke is not a vertex, and inserting or removing a degree-two subdivision is permitted without changing the requested invariant. Regard each resulting network as a one-dimensional CW complex embedded in the plane. Do not use over-under information, knot labels, or any feature outside the supplied drawing. A pocket is a bounded connected component of the plane complement of the embedded graph; the unbounded exterior component is excluded. A white gap counts only when it is genuinely enclosed by the network, so a narrow gap opening into the exterior contributes no pocket. Trace the entire boundary structure in each panel before counting, since several apparent loops may share vertices and their cycle contributions are governed by graph homology. For each panel, compute the first integral Betti number \\(\\beta_1(G)=\\operatorname{rank} H_1(G;\\mathbb{Z})\\). Return the ordered pair \\((\\beta_1(G_L), \\beta_1(G_R))\\) in left-to-right order. The response must be one exact ordered pair of integers, with no explanation, units, labels, or alternative forms.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0302.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "f3d81aa6510a5902b04c48140e61cb2b7594ba2c6b313b2492ff077b670cc103"
+}

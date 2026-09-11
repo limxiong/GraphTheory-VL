@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0164",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nA connected graph \\(H\\) is constructed from a spoke-and-rim graph \\(G\\) and analyzed through its reduced Laplacian. On the supplied spherical rendering, locate the single small blue junction near the upper middle from which thin blue-gray smooth spokes travel toward the right-hand silhouette. Let \\(N\\) be the number of distinct spokes whose far ends terminate at isolated dark marks on that silhouette. A terminal mark counts once even if local shading makes it appear thick. Count only a spoke having one continuous visible route from the central junction to such a right-side mark. Ignore the gray triangular serrations, broad translucent bands, the outer silhouette itself, curves leaving the junction toward the top, left, or bottom, and apparent crossings created only by shading. Do not count the central junction as a terminal. Read the complete asset in its displayed orientation, without reflecting it or extrapolating hidden rear-side curves.\n\nCreate \\(G\\) with a hub \\(h\\) and rim vertices \\(r_1,\\ldots,r_N\\), ordered from the uppermost qualifying terminal to the lowermost. Join \\(h\\) to every \\(r_i\\). Join consecutive rim vertices and also join \\(r_N\\) to \\(r_1\\), so that the rim is the simple cycle \\(C_N\\). No loops or parallel edges are allowed. Next form the line graph \\(H=\\operatorname{Line}(G)\\): every edge of \\(G\\) becomes a vertex of \\(H\\), and two vertices of \\(H\\) are adjacent exactly when their corresponding edges of \\(G\\) share an endpoint.\n\nLet \\(Q\\) be any reduced combinatorial Laplacian of \\(H\\), obtained by deleting one row and the corresponding column from its Laplacian. Write its Smith normal form as \\(\\operatorname{diag}(s_1,\\ldots,s_m)\\), where all \\(s_i\\) are positive and \\(s_i\\mid s_{i+1}\\). Determine, in divisibility order, the ordered tuple consisting of every invariant factor satisfying \\(s_i>1\\). Do not include unit factors or the determinant.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0164.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "0e5266f0134593be913722daf18c9752e66bb7c95e0476a59965508ecf910f03"
+}

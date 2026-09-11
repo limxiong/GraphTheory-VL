@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0437",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThroughout, use \\(G\\) as the embedded planar graph formed by the thick black orthogonal mesh. Use the complete supplied drawing as the data for reconstructing \\(G\\), but impose the following precise conventions. Only the black mesh belongs to \\(G\\). The orange, blue, and magenta rings are auxiliary curves and are not graph edges, vertices, or additional boundaries. The thin large circular outline surrounding the construction is also not an edge of \\(G\\). Whenever two black tracks meet, their meeting point is one vertex, including vertices on the outer boundary of the black mesh. Portions of a black track hidden beneath a colored ring are understood to continue straight through; the colored overdraw does not split the track or create a new vertex. Tangencies or crossings involving only colored curves are ignored.\n\nThe black skeleton is a topological rectangular lattice drawn obliquely: it has two transverse track directions and a finite polygonal boundary. Let \\(r\\) be the number of elementary black segments along one boundary chain, and let \\(s\\) be the corresponding number along the transverse boundary chain. These counts must be obtained by tracing the black mesh across the entire drawing, including its upper and lower portions; do not count a cropped local patch or use the colored rings as a substitute for black lattice edges. Let \\(V\\) be the total number of black-mesh vertices, let \\(E\\) be the total number of black-mesh edges after the hidden portions are restored, and let \\(F\\) be the number of connected components of the plane minus \\(G\\), including the unbounded component. Determine the ordered integer triple \\((V,E,F)\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0437.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "d7bc87f24e2040f7b4b6458565d8d9d27f274b024b2a1d6cf775a8fd1b57dac9"
+}

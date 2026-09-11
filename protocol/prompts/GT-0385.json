@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0385",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nIn this setup, consider \\(Q\\) to be the weighted directed quiver on the ordered vertex set \\(V=\\{1,2,3,4,5,6\\}\\), with the arrow directions and multiplicities encoded by the complete visual data supplied with this question. Every arrow without a printed multiplicity has multiplicity 1, while the visibly printed multiplicity 2 is to be used exactly as shown. An absent directed edge contributes zero. Do not replace \\(Q\\) by its underlying undirected graph, and do not identify two opposite arrows before applying the signed convention below.\n\nDefine the skew-symmetric integer matrix \\(B=(b_{ij})\\) by taking \\(b_{ij}\\) to be the multiplicity of arrows from \\(i\\) to \\(j\\) minus the multiplicity of arrows from \\(j\\) to \\(i\\). Thus, the ordering of rows and columns is exactly \\(1,2,3,4,5,6\\), and the sign depends on the arrow direction, not on the geometric slope or position of an edge. Work over the rational numbers, so that the nullspace is a vector space over \\(\\mathbb{Q}\\).\n\nThe visual data are indispensable because the edge directions, the single non-unit multiplicity, and the vertex ordering jointly determine \\(B\\). From this matrix, consider the nullspace \\(K=\\ker(B)\\). To eliminate the usual nonuniqueness of a basis, impose the following normalization. The free coordinates are listed in increasing index order; for each free coordinate, set it equal to 1, set every other free coordinate equal to 0, and solve for the pivot coordinates. The resulting vectors are written as six-entry column vectors in the vertex order above.\n\nDetermine the ordered pair consisting of the normalized nullspace basis vector associated with the first free coordinate and the normalized nullspace basis vector associated with the second free coordinate. Your response must be an exact ordered pair, not a numerical approximation, and must preserve the signs and coordinate order. No additional invariant, rank, determinant, or explanatory text is part of the requested answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0385.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "daa2b5c1fd5ccdd8ac6a5fe618846f257052d4b2bb03589f2f9019e2f8f644c7"
+}

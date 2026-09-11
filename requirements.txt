@@ -1,0 +1,2 @@
+# Python 3.9 or newer. Core reading, preparation, summarization and verification
+# use the standard library only. No pip packages are required.

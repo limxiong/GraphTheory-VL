@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0168",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nWe regard \\(G\\) as the finite undirected graph obtained from the given presentation by taking one vertex for each rounded blue box and one edge for each connector joining two such boxes. Use the complete displayed presentation as the data for this construction. The nine vertices are the boxes labeled [2]-manifolds, Symplectic [2]-manifolds, Lie 2-algebroids, Poisson [2]-manifolds, Matched pairs of 2-representations, Poisson Lie 2-algebroids, Degenerate Courant algebroids, Symplectic Lie 2-algebroids, and Courant algebroids. A connector is counted exactly once when its two geometric endpoints lie on rounded boxes. Treat every connector as undirected: arrowheads at either or both ends do not change this rule. Also ignore whether a connector is solid, dashed, wavy, straight, or bent. The phrases Core, Cotangent functor, and Tangent functor are annotations and do not create vertices or edges. Do not infer an edge from the mathematical relationship suggested by a label; use only the connectors visibly joining boxes in the given presentation. Thus the positions, box boundaries, and all connector paths in the complete presentation determine \\(G\\).\n\nFor this graph, let \\(L\\) be the combinatorial Laplacian, with \\(L_{vv}=\\deg(v)\\), \\(L_{uv}=-1\\) when distinct vertices \\(u\\) and \\(v\\) are joined, and \\(L_{uv}=0\\) otherwise. Choose any vertex \\(r\\) and delete the row and column indexed by \\(r\\), obtaining \\(L^{(r)}\\). Define the critical group by\n\n\\[\nK(G)=\\mathbb{Z}^{|V(G)|-1}/L^{(r)}\\mathbb{Z}^{|V(G)|-1}.\n\\]\n\nThe graph determined by the presentation is connected, so \\(K(G)\\) is finite. Determine the exact positive integer \\(|K(G)|\\). A structural use of the Matrix-Tree Theorem, articulation at a shared vertex, and degree-two reduction is encouraged; a full determinant expansion is unnecessary.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0168.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "6744b03aa97d0940ca8ead6803392aae36207373679fdd0b1b801d668996a2b3"
+}

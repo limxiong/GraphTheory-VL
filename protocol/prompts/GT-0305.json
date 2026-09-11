@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0305",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nView \\(G\\) as the undirected multigraph obtained from the six labeled panels and the direct arrow incidences in the supplied composite drawing. The vertices of \\(G\\) are the panels \\(\\mathrm{I}, \\mathrm{II}, \\mathrm{III}, \\mathrm{IV}, \\mathrm{V},\\) and \\(\\mathrm{VI}\\). Every visible red lowercase italic glyph is a candidate label. Roman numerals, directional words, the central symbol \\((3,3)\\), and ordinary explanatory text are excluded from the candidate-label collection. A candidate label is called recurrent when it appears in exactly two distinct panels. For each recurrent label, create one edge between its two panels if those panels are joined by a visible direct arrow in the composite drawing. Preserve distinct edges when different labels produce the same pair of endpoints, so \\(G\\) is a multigraph. Labels appearing in one panel or in three or more panels produce no edges. The arrowheads provide incidence information and may be used to orient the temporary edges, but all edge orientations must be forgotten before the requested invariant is evaluated. Using the standard Tutte polynomial \\(T_G(X,Y)\\), with spanning-subgraph rank \\(r(A)=|V(G)|-c(A)\\) and nullity \\(n(A)=|A|-r(A)\\), determine the exact polynomial \\(T_G(X,Y)\\). Here \\(c(A)\\) is the number of connected components of the spanning subgraph with edge set \\(A\\), including isolated vertices. The complete composite drawing is indispensable: the answer requires reading both the panel-wise occurrences of the red glyphs and the direct arrow connections. Return one exact polynomial in \\(X\\) and \\(Y\\), with all multiplicities included and no numerical approximation.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0305.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "82b69796e20b51e8262b044872bf7a802cf589f29f9bbef3825c999a2fc36b37"
+}

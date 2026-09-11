@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0084",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFor the discussion below, take \\(D=(d_{ij})\\) to be an \\(8\\times 8\\) integer rank array whose entries lie in \\(\\{0,1,2,3\\}\\). Its row index increases from top to bottom, and its column index increases from left to right. Treat each open blue dashed square in the displayed grid as one array cell. Read the symbol centered in that cell without assigning any algebraic meaning to the surrounding arrows. If the cell contains \\(0\\), set \\(d_{ij}=0\\); if it contains \\(k\\), set \\(d_{ij}=1\\); if it contains \\(k^2\\), set \\(d_{ij}=2\\); and if it contains \\(k^3\\), set \\(d_{ij}=3\\). Thus, the superscript is used only as an integer rank, not as a power that must be evaluated.\n\nFor each threshold \\(q\\in\\{1,2,3\\}\\), construct a simple bipartite graph as follows. Begin with eight row vertices \\(R_1,\\ldots,R_8\\) and eight column vertices \\(C_1,\\ldots,C_8\\). Join \\(R_i\\) to \\(C_j\\) by one edge exactly when \\(d_{ij}\\ge q\\). After placing all such edges, delete every isolated vertex and denote the resulting graph by \\(G_q\\). A spanning tree is an ordinary undirected spanning tree of the remaining graph, and \\(\\tau(G_q)\\) denotes the number of such trees.\n\nUse all sixty-four cell entries when constructing the three threshold graphs. The solid blue arrows, their labels, and the black solid segments help locate the entries but do not themselves create graph edges. No symmetry or unshown continuation outside the displayed grid is permitted. Determine the ordered triple \\(\\bigl(\\tau(G_1),\\tau(G_2),\\tau(G_3)\\bigr)\\), giving every component in exact prime-power form.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0084.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "54efa1fb5652807d7fab7af80030e8d5fd8852aef5b41b717e13b1c35be99233"
+}

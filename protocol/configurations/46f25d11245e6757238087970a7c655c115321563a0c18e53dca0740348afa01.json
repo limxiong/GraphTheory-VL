@@ -1,0 +1,47 @@
+{
+  "profiles": {
+    "gpt": {
+      "experiment_id": "gpt-hard-original-independent-4roll-128k",
+      "condition": "original",
+      "image_transmitted": true,
+      "provider": "gpt",
+      "model": "gpt-5.6-luna",
+      "base_url": "https://api-slb.krill-code.net/codex/v1",
+      "max_tokens": 128000,
+      "request_protocol": "openai_responses",
+      "stream": false,
+      "reasoning_effort": "high",
+      "rolls": 4,
+      "seed": 20260823,
+      "sampling": "provider_default",
+      "prompt_template_version": "graph_original_independent_v1",
+      "image_preprocessing": "original_bytes",
+      "concurrency": 4
+    },
+    "gemini": {
+      "experiment_id": "gemini-hard-original-independent-4roll-128k",
+      "condition": "original",
+      "image_transmitted": true,
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "base_url": "https://api.openlux.ai/v1",
+      "max_tokens": 128000,
+      "request_protocol": "openai_chat_completions",
+      "stream": false,
+      "reasoning_effort": "high",
+      "rolls": 4,
+      "seed": 20260823,
+      "sampling": "provider_default",
+      "prompt_template_version": "graph_original_independent_v1",
+      "image_preprocessing": "original_bytes",
+      "concurrency": 4
+    }
+  },
+  "configuration_id": "46f25d11245e6757238087970a7c655c115321563a0c18e53dca0740348afa01",
+  "prepared_at_utc": "2026-09-10T15:52:23.469213+00:00",
+  "provenance": {
+    "source_locator": "evaluation/p1_challenge62_completion/manifest.json",
+    "source_line": null,
+    "original_file_sha256": "979d16d472fabe41b35e75e872d29afaa8a0eb2d02405b7fe9b963a5ba6f9469"
+  }
+}

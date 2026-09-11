@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0248",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThe setup takes \\(H\\) to be the vertex-disjoint union of six source graphs associated with Case 1, Subcase 2.1, Subcase 2.2, Case A, Case B, and Case C. The supplied composite drawing is part of the definition of these graphs and must be used to recover their adjacency data. In each named location, select the compact black-dot graph placed to the left of the adjacent construction; the larger graph on the other side is not included in \\(H\\). Every black dot is a vertex, every drawn straight segment joining two dots is an edge, and a geometric crossing without a black dot does not create a vertex. Use every black dot and every segment in the compact Case C graph. Vertices carrying the same displayed letter in different panels are still distinct because the six source graphs are vertex-disjoint. In Case B, record the two diagonal segments through their displayed endpoints, so their crossing is not an extra vertex. For an indeterminate \\(q\\), let \\(P_H(q)\\) denote the chromatic polynomial of \\(H\\): for every positive integer \\(q\\), \\(P_H(q)\\) counts proper colorings of \\(V(H)\\) by \\(q\\) labeled colors, and the same expression is regarded as a polynomial in \\(q\\). Determine \\(P_H(q)\\) exactly in factored form over the integers. Your answer must account for all six source graphs, including the two separate subcases under Case 2, and must be a single polynomial expression in \\(q\\).\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0248.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "cda71bb02298382bee6e294d26cb103be6cf1fbc8c95fe2827e6b4f50165dee2"
+}

@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0424",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nFor each occupied cell \\(D\\), let \\(c(D)\\) be the signed coefficient printed in red at the upper-left of that cell. The array is read from top to bottom and from left to right; the final row contains only one occupied cell, so there are 21 cells in total. Each cell contains a directed graph whose vertices are labelled 1 through 6. Define the underlying undirected graph by forgetting every arrowhead and by treating both solid and dashed line segments as edges. A curved segment is still one edge, and labels, arrowheads, and vertex colors do not create additional edges. Let \\(d(D)\\) be the ordinary undirected degree of the vertex labelled 6, counting each distinct incident edge once. Construct the weighted degree-enumerator polynomial\n\\[\nP(t)=\\sum_{\\text{all occupied cells }D} c(D)t^{d(D)}.\n\\]\nUse every occupied cell in the complete array, including the isolated bottom-left cell in the last row. Preserve the signs of all red coefficients, and determine \\(P(t)\\) in expanded form with rational coefficients. The graph orientations are relevant only for recognizing the cells and their adjacency; they must not be used to change the definition of \\(d(D)\\). Likewise, dashed and solid edges contribute identically to the degree. Give the result as one exact polynomial in the indeterminate \\(t\\), with no decimal approximation and no factorization requirement.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0424.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "3ebd59985525e53025e0cc06530594993a2029c4466f7f14cdf6ce6d0cfa101f"
+}

@@ -1,0 +1,24 @@
+{
+  "experiment_id": "gemini-hard-original-independent-4roll-128k",
+  "condition": "original",
+  "image_transmitted": true,
+  "provider": "gemini",
+  "model": "gemini-3.6-flash",
+  "base_url": "https://api.openlux.ai/v1",
+  "max_tokens": 128000,
+  "request_protocol": "openai_chat_completions",
+  "stream": false,
+  "reasoning_effort": "high",
+  "rolls": 4,
+  "seed": 20260823,
+  "sampling": "provider_default",
+  "prompt_template_version": "graph_original_independent_v1",
+  "image_preprocessing": "original_bytes",
+  "configuration_id": "ec1c4051a46813c9afaa26fc44d07d9a05c8bb8279ef1c84bd3cce0e084bfb31",
+  "prepared_at_utc": null,
+  "provenance": {
+    "source_locator": "evaluation/original/gemini/openlux_probe_20260910/configuration.json",
+    "source_line": null,
+    "original_file_sha256": "48400fd4f5320762b0ccc6d4be5c4219dccfd4a93e94083db06b62f298d27f85"
+  }
+}

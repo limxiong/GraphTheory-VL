@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0395",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nUnderstand \\(D\\) to be the closed disk bounded by the large circle labeled \\(R_1\\), and let \\(G\\) be the embedded graph formed by the internal curves and all their marked endpoints. Every black dot and every arrowhead tip is a vertex of \\(G\\). A maximal drawn arc between consecutive marked vertices is one edge; ordinary bends do not create vertices. The outer circle and the label \\(R_1\\) are not part of \\(G\\), and the arrowheads indicate marks only, not an orientation. When two arcs visibly meet at one arrowhead tip, that tip is counted once as a common vertex. Use the complete supplied planar drawing to read the incidences, including the upper curved portion, the central branching portion, the left-hand lobe, and the three branches at the lower marked dot. In particular, do not replace a curved lobe by a straight segment, do not split an arc merely because its direction changes, and do not count a visual tangency or the boundary circle as an additional intersection. Work with singular homology over \\(\\mathbb Z\\). Define \\(r=\\operatorname{rank}H_1(G;\\mathbb Z)\\), define \\(s=\\operatorname{rank}\\widetilde H_0(D\\setminus G;\\mathbb Z)\\), and let \\(a\\) be the total number of arrowhead-marked vertices in the drawing, including an arrowhead that has degree two. Determine the ordered triple \\((r,s,a)\\). Your response must be an exact tuple of integers, not a description or a proof.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0395.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "205149e78be1adeaf2c592e0413185f8dd589f3110e659f154052c5cca383a22"
+}

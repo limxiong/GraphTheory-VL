@@ -1,0 +1,23 @@
+{
+  "experiment_id": "gemini-hard-text-only-4roll",
+  "condition": "text_only",
+  "image_transmitted": false,
+  "provider": "gemini",
+  "model": "gemini-3.6-flash",
+  "base_url": "https://buzzai.cc/v1",
+  "max_tokens": 128000,
+  "request_protocol": "openai_chat_completions",
+  "stream": false,
+  "reasoning_effort": "high",
+  "rolls": 4,
+  "seed": 20260823,
+  "sampling": "provider_default",
+  "prompt_template_version": "graph_text_only_v1",
+  "configuration_id": "c9616239d905d49724bd31a40b1f21a557536fb5e174350575b2f96eba78f657",
+  "prepared_at_utc": null,
+  "provenance": {
+    "source_locator": "evaluation/text_only/gemini/summary.json",
+    "source_line": null,
+    "original_file_sha256": "c9d0cee86bdfe3127830a129e69d76b78fd7689624e4e65c8c87b7512672a11a"
+  }
+}

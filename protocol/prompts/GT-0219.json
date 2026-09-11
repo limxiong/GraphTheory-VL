@@ -1,0 +1,15 @@
+{
+  "problem_id": "GT-0219",
+  "system": "You are solving an expert-level graph theory problem. Use both the problem text and the supplied image. Work independently and do not use external tools or external information. Return the final answer in the required format.",
+  "user": "Problem:\nThe ordered Belyi passport encoded by the genus-one dessin in the supplied composite construction is the exact object to recover. Use the following conventions as a closed mathematical specification. Filled vertices represent points above \\(0\\), open vertices represent points above \\(1\\), and complementary regions represent points above \\(\\infty\\). The degree is the number of dessin edges in one quotient fundamental domain after all marked seams are glued. A vertex contributes its graph valency to the corresponding ramification partition. A face contributes its pole order, defined as half the number of edge-sides encountered during one complete boundary walk. The blue segments in panels \\((a)\\) and \\((b)\\) are seam markers only and do not contribute additional dessin edges. Coincident seam endpoints are identified. Translated copies in panel \\((c)\\) belong to the same periodic quotient, so they do not create new quotient vertices or new face orbits. Panel \\((a)\\) identifies the local composite pattern and names the relevant vertex orbits; panel \\((b)\\) unfolds the finite quotient region and displays the six face labels; panel \\((c)\\) exhibits the periodic continuation and the shaded fundamental cell. The labels \\(1\\) through \\(6\\) denote face orbits and are not branch values. Determine the ordered passport as a triple of integer partitions, with the first partition assigned to \\(0\\), the second assigned to \\(1\\), and the third assigned to \\(\\infty\\). List every part with multiplicity and place the parts in nonincreasing order within each partition. Do not append the degree as a fourth component: it must be inferred from the common sum of the three partitions. The complete construction supplies enough incidence, seam, and face data for a unique exact answer.\n\nReturn your response using exactly these two fields:\nanswer: <final answer>\nreasoning: <concise explanation>",
+  "conditions": {
+    "original": {
+      "image_path": "data/images/GT-0219.png"
+    },
+    "text_only": {
+      "image_path": null
+    }
+  },
+  "construction": "Exact common text template; the image block alone differs between O and T.",
+  "prompt_sha256": "5a33e0220dec76438dec4b2767da52dbeac1d1a95ab64483e5727f7598d2ce50"
+}
