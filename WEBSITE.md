@@ -1,6 +1,6 @@
 # GraphTheory-VL project homepage
 
-Static English research homepage for the prepared v1.0 release. `docs/` contains the complete site; it can be served directly or copied into a GitHub Pages publishing directory.
+Static English research homepage for GraphTheory-VL v1.0, released on September 11, 2026. `docs/` contains the complete site published through GitHub Pages.
 
 ## Preview locally
 
@@ -12,7 +12,7 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory docs
 
 Then open http://127.0.0.1:8765/. A web connection is not required for the page assets or mathematical typesetting. The four example PNGs retain their original bytes; the downloadable example JSONL contains original fields with local image paths.
 
-The site uses plain HTML, CSS and JavaScript. This repository hosts the portable static output under `docs/`. The local preview command serves the same files that can later be used by GitHub Pages.
+The site uses plain HTML, CSS and JavaScript. This repository hosts the portable static output under `docs/`. The local preview command serves the same files published by GitHub Pages.
 
 ## Release links
 
